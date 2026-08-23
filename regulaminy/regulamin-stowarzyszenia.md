@@ -8,23 +8,23 @@
 ### § 1
 Stowarzyszenie nosi nazwę „Hackerspace Szczecin”, w skrócie „HaSzcze”, i zwane jest dalej „Stowarzyszeniem”.
 
-### § 3
+### § 2
 Podstawą działania Stowarzyszenia są przepisy ustawy Prawo o stowarzyszeniach oraz postanowienia niniejszego Regulaminu.
 
-### § 4
+### § 3
 Stowarzyszenie działa w szczególności w oparciu o zasadę otwartości, współpracy, wzajemnego szacunku, odpowiedzialności za wspólną przestrzeń i poszanowania autonomii jego członków.
 
 ## Rozdział II – Teren działania i siedziba
 
-### § 5
+### § 4
 Terenem działania Stowarzyszenia jest Rzeczpospolita Polska.
 
-### § 6
+### § 5
 Siedzibą Stowarzyszenia jest Szczecin.
 
 ## Rozdział III – Cele Stowarzyszenia
 
-### § 7
+### § 6
 Celem działania Stowarzyszenia jest:
 
 1. upowszechnianie wiedzy;
@@ -33,7 +33,7 @@ Celem działania Stowarzyszenia jest:
 4. tworzenie i rozwój społeczności skupionej wokół technologii, nauki, sztuki, majsterkowania i wymiany wiedzy;
 5. tworzenie otwartej i współdzielonej przestrzeni do pracy nad projektami indywidualnymi i zespołowymi.
 
-### § 8
+### § 7
 Stowarzyszenie realizuje swoje cele poprzez:
 
 1. tworzenie i utrzymywanie infrastruktury stymulującej rozwój projektów oraz zapewniającej dostęp do narzędzi i urządzeń;
@@ -48,15 +48,15 @@ Stowarzyszenie realizuje swoje cele poprzez:
 
 ## Rozdział IV – Członkowie Stowarzyszenia
 
-### § 9
+### § 8
 Członkiem Stowarzyszenia może zostać osoba fizyczna spełniająca wymagania wynikające z obowiązujących przepisów prawa oraz akceptująca cele i zasady działania Stowarzyszenia.
 
-### § 10
+### § 9
 1. Kandydat składa deklarację członkowską.
 2. O przyjęciu członka decyduje Zebranie Członków uchwałą podjętą większością co najmniej 2/3 głosów członków obecnych i uprawnionych do głosowania.
 3. Kandydat jest informowany o decyzji w sposób przyjęty przez Stowarzyszenie.
 
-### § 11
+### § 10
 Członek Stowarzyszenia ma prawo:
 
 1. uczestniczyć w działalności Stowarzyszenia;
@@ -65,7 +65,7 @@ Członek Stowarzyszenia ma prawo:
 4. zgłaszać projekty, inicjatywy i propozycje dotyczące działalności Stowarzyszenia;
 5. korzystać z informacji dotyczących działalności Stowarzyszenia, z zastrzeżeniem informacji podlegających ochronie prawnej.
 
-### § 12
+### § 11
 Członek Stowarzyszenia jest zobowiązany:
 
 1. przestrzegać niniejszego Regulaminu, zasad przyjętych przez Stowarzyszenie oraz uchwał Zebrania Członków;
@@ -74,11 +74,11 @@ Członek Stowarzyszenia jest zobowiązany:
 
 ## Rozdział V – Władze Stowarzyszenia
 
-### § 13
+### § 12
 1. Jedyną władzą Stowarzyszenia jest Zebranie Członków.
 2. Zebranie Członków podejmuje decyzje we wszystkich sprawach Stowarzyszenia na zasadach określonych w niniejszym Regulaminie.
 
-### § 14
+### § 13
 Do kompetencji Zebrania Członków należy:
 
 1. uchwalanie i zmiana niniejszego Regulaminu;
@@ -94,7 +94,7 @@ Do kompetencji Zebrania Członków należy:
 11. podejmowanie decyzji we wszystkich pozostałych sprawach dotyczących działalności Stowarzyszenia;
 12. podejmowanie decyzji o rozwiązaniu Stowarzyszenia lub jego przekształceniu.
 
-### § 15
+### § 14
 1. Zebranie Członków może powołać spośród członków Stowarzyszenia Przedstawiciela Stowarzyszenia do załatwienia określonej sprawy.
 2. Zebranie Członków może powołać spośród członków Stowarzyszenia Przedstawiciela Stowarzyszenia do spraw urzędowych na roczną kadencję.
 3. Przedstawiciel Stowarzyszenia do określonej sprawy jest powoływany wyłącznie na czas niezbędny do załatwienia sprawy wskazanej w uchwale o jego powołaniu.
@@ -104,7 +104,7 @@ Do kompetencji Zebrania Członków należy:
 7. Przedstawiciel Stowarzyszenia może w każdym czasie zrezygnować z zajmowania się powierzoną mu sprawą albo z pełnienia funkcji Przedstawiciela Stowarzyszenia do spraw urzędowych.
 8. Zebranie Członków może w każdym czasie odwołać Przedstawiciela Stowarzyszenia z zajmowania się daną sprawą albo z pełnienia funkcji Przedstawiciela Stowarzyszenia do spraw urzędowych.
 
-### § 16 – Kompetencje Przedstawiciela Stowarzyszenia
+### § 15 – Kompetencje Przedstawiciela Stowarzyszenia
 
 1. Przedstawiciel Stowarzyszenia do określonej sprawy działa wyłącznie w tej sprawie oraz w granicach kompetencji określonych uchwałą Zebrania Członków.
 2. Przedstawiciel Stowarzyszenia do spraw urzędowych prowadzi kontakty z organami administracji publicznej, organem ewidencyjnym oraz innymi instytucjami wyłącznie w granicach kompetencji określonych uchwałą Zebrania Członków.
@@ -117,18 +117,18 @@ Do kompetencji Zebrania Członków należy:
 5. Powołanie Przedstawiciela Stowarzyszenia nie przenosi na niego kompetencji Zebrania Członków ani nie uprawnia go do podejmowania decyzji w imieniu Zebrania Członków.
 6. Umocowanie Przedstawiciela Stowarzyszenia do spraw urzędowych nie obejmuje zaciągania zobowiązań majątkowych, chyba że odrębna uchwała Zebrania Członków oraz udzielone na jej podstawie pełnomocnictwo wyraźnie stanowią inaczej.
 
-### § 17 – Reprezentacja Stowarzyszenia
+### § 16 – Reprezentacja Stowarzyszenia
 
 1. W określonej sprawie albo w zakresie spraw urzędowych objętych uchwałą o powołaniu Stowarzyszenie jest reprezentowane przez właściwego Przedstawiciela Stowarzyszenia wyłącznie w granicach udzielonego mu umocowania.
 2. Czynności przekraczające zakres zwykłego zarządu wymagają uprzedniej zgody Zebrania Członków Stowarzyszenia oraz udzielenia przez nie pełnomocnictwa do dokonania danej czynności, jeżeli wymagają tego obowiązujące przepisy prawa.
 3. Jeżeli dokonanie czynności w powierzonej sprawie wymaga pełnomocnictwa, powołanie Przedstawiciela Stowarzyszenia nie zastępuje udzielenia takiego pełnomocnictwa w formie wymaganej przez prawo.
 
-### § 18 – Konflikt interesów
+### § 17 – Konflikt interesów
 
 1. Członek Stowarzyszenia nie bierze udziału w głosowaniu dotyczącym bezpośrednio jego osobistego interesu, odpowiedzialności, wykluczenia, odwołania z funkcji lub zarzutu naruszenia Regulaminu.
 2. Członka wyłączonego od głosowania nie uwzględnia się przy ustalaniu liczby obecnych i uprawnionych do głosowania w danej sprawie.
 
-### § 19 – Wygaśnięcie umocowania Przedstawiciela Stowarzyszenia
+### § 18 – Wygaśnięcie umocowania Przedstawiciela Stowarzyszenia
 
 1. Umocowanie Przedstawiciela Stowarzyszenia do określonej sprawy wygasa wskutek:
    1. zakończenia sprawy, do której został powołany;
@@ -144,16 +144,16 @@ Do kompetencji Zebrania Członków należy:
 
 ## Rozdział VI – Posiedzenia i głosowania
 
-### § 20
+### § 19
 1. Zebrania Członków mogą odbywać się stacjonarnie, zdalnie albo w sposób mieszany.
 2. Osoba uczestnicząca zdalnie jest traktowana jak obecna osobiście, o ile zastosowany środek komunikacji umożliwia jej identyfikację, udział w dyskusji oraz oddanie głosu.
 3. Uchwały mogą być podejmowane przy wykorzystaniu środków komunikacji elektronicznej, jeżeli możliwe jest ustalenie tożsamości osób głosujących oraz treści oddanych głosów.
 4. Każda osoba uprawniona do głosowania ma jeden głos.
 5. Uchwały zapadają większością co najmniej 2/3 głosów członków obecnych i uprawnionych do głosowania, chyba że obowiązujące przepisy prawa wymagają zgody większej liczby członków.
 6. Wymóg większości co najmniej 2/3 oznacza, że liczba głosów „za” musi stanowić co najmniej 2/3 liczby członków obecnych i uprawnionych do głosowania w danej sprawie.
-8. Głosowania są jawne.
+7. Głosowania są jawne.
 
-### § 21
+### § 20
 1. Zebranie Członków może zwołać każdy członek Stowarzyszenia.
 2. O terminie i przedmiocie Zebrania Członków członkowie są informowani z odpowiednim wyprzedzeniem, nie krótszym niż 7 dni, chyba że wszyscy członkowie wyrażą zgodę na krótszy termin.
 3. Informacja może zostać przekazana pocztą elektroniczną, przez komunikator używany przez Stowarzyszenie albo w inny sposób przyjęty przez Stowarzyszenie.
@@ -164,26 +164,26 @@ Do kompetencji Zebrania Członków należy:
 
 ## Rozdział VII – Zasady odpowiedzialności i rozwiązywania sporów
 
-### § 22
+### § 21
 1. Spory pomiędzy członkami dotyczące działalności Stowarzyszenia powinny być w pierwszej kolejności rozwiązywane poprzez rozmowę oraz próbę dobrowolnego porozumienia.
 2. Jeżeli porozumienie nie jest możliwe, sprawę rozpatruje Zebranie Członków.
 3. Członek będący stroną sporu ma prawo przedstawić swoje stanowisko przed podjęciem decyzji.
 4. Członek będący stroną sporu nie bierze udziału w podejmowaniu decyzji przez Zebranie Członków, jeżeli zachodzi konflikt interesów.
 
-### § 23
+### § 22
 1. Sposób korzystania z przestrzeni Stowarzyszenia określają zasady przyjęte przez Stowarzyszenie.
 2. Naruszenie zasad przyjętych przez Stowarzyszenie może skutkować środkami określonymi w tych zasadach.
 3. Wykluczenie członka następuje zgodnie z procedurą określoną w niniejszym Regulaminie.
 
 ## Rozdział VIII – Majątek Stowarzyszenia
 
-### § 24
+### § 23
 1. Stowarzyszenie uzyskuje środki na działalność w sposób zgodny z obowiązującymi przepisami prawa.
 2. Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami prawa.
 
 ## Rozdział IX – Utrata członkostwa
 
-### § 25
+### § 24
 1. Członkostwo ustaje wskutek:
    1. dobrowolnego wystąpienia;
    2. śmierci;
@@ -200,11 +200,11 @@ Do kompetencji Zebrania Członków należy:
 
 ## Rozdział X – Postanowienia końcowe
 
-### § 26
+### § 25
 Zmiana niniejszego Regulaminu, rozwiązanie Stowarzyszenia albo jego przekształcenie wymaga uchwały Zebrania Członków podjętej większością co najmniej 2/3 głosów członków obecnych i uprawnionych do głosowania, chyba że obowiązujące przepisy wymagają zgody większej liczby członków.
 
-### § 27
+### § 26
 W przypadku rozwiązania Stowarzyszenia Zebranie Członków wskazuje likwidatora lub likwidatorów oraz określa przeznaczenie majątku Stowarzyszenia zgodnie z obowiązującymi przepisami prawa.
 
-### § 30
+### § 27
 W sprawach nieuregulowanych niniejszym Regulaminem stosuje się przepisy obowiązującego prawa.
