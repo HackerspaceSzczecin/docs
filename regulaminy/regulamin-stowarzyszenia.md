@@ -72,6 +72,12 @@ Członek Stowarzyszenia jest zobowiązany:
 2. ponosić odpowiedzialność za szkody wyrządzone umyślnie lub wskutek rażącego niedbalstwa;
 3. uiszczać uchwalone składki członkowskie.
 
+### § 11a
+1. Każdy członek odpowiada za zobowiązania Stowarzyszenia bez ograniczeń całym swoim majątkiem, solidarnie z pozostałymi członkami oraz ze Stowarzyszeniem.
+2. Odpowiedzialność, o której mowa w ust. 1, powstaje z chwilą, gdy egzekucja z majątku Stowarzyszenia okaże się bezskuteczna.
+3. Dopuszczalne jest wniesienie powództwa przeciwko członkowi przed bezskuteczną egzekucją z majątku Stowarzyszenia.
+4. Postanowienia § 11 pkt 2 nie ograniczają odpowiedzialności członka wynikającej z obowiązujących przepisów prawa.
+
 ## Rozdział V – Władze Stowarzyszenia
 
 ### § 12
@@ -120,8 +126,14 @@ Do kompetencji Zebrania Członków należy:
 ### § 16 – Reprezentacja Stowarzyszenia
 
 1. W określonej sprawie albo w zakresie spraw urzędowych objętych uchwałą o powołaniu Stowarzyszenie jest reprezentowane przez właściwego Przedstawiciela Stowarzyszenia wyłącznie w granicach udzielonego mu umocowania.
-2. Czynności przekraczające zakres zwykłego zarządu wymagają uprzedniej zgody Zebrania Członków Stowarzyszenia oraz udzielenia przez nie pełnomocnictwa do dokonania danej czynności, jeżeli wymagają tego obowiązujące przepisy prawa.
+2. Czynności przekraczające zakres zwykłego zarządu wymagają uprzedniej zgody wszystkich członków Stowarzyszenia oraz udzielenia przez nich pełnomocnictwa do dokonania danej czynności.
 3. Jeżeli dokonanie czynności w powierzonej sprawie wymaga pełnomocnictwa, powołanie Przedstawiciela Stowarzyszenia nie zastępuje udzielenia takiego pełnomocnictwa w formie wymaganej przez prawo.
+4. Czynnościami przekraczającymi zakres zwykłego zarządu są w szczególności:
+   1. nabycie oraz zbycie nieruchomości lub prawa użytkowania wieczystego;
+   2. ustanowienie ograniczonego prawa rzeczowego;
+   3. zawarcie umowy kredytu albo pożyczki;
+   4. przejęcie długu, uznanie długu, zwolnienie z długu, przystąpienie do długu, zawarcie umowy poręczenia lub zawarcie innej podobnej umowy;
+   5. zaciągnięcie innych zobowiązań przekraczających wartość 10 000 zł.
 
 ### § 17 – Konflikt interesów
 
@@ -149,9 +161,10 @@ Do kompetencji Zebrania Członków należy:
 2. Osoba uczestnicząca zdalnie jest traktowana jak obecna osobiście, o ile zastosowany środek komunikacji umożliwia jej identyfikację, udział w dyskusji oraz oddanie głosu.
 3. Uchwały mogą być podejmowane przy wykorzystaniu środków komunikacji elektronicznej, jeżeli możliwe jest ustalenie tożsamości osób głosujących oraz treści oddanych głosów.
 4. Każda osoba uprawniona do głosowania ma jeden głos.
-5. Uchwały zapadają większością co najmniej 2/3 głosów członków obecnych i uprawnionych do głosowania, chyba że obowiązujące przepisy prawa wymagają zgody większej liczby członków.
-6. Wymóg większości co najmniej 2/3 oznacza, że liczba głosów „za” musi stanowić co najmniej 2/3 liczby członków obecnych i uprawnionych do głosowania w danej sprawie.
-7. Głosowania są jawne.
+5. Z zastrzeżeniem § 25 Zebranie Członków jest zdolne do podejmowania uchwał, jeżeli uczestniczy w nim co najmniej połowa wszystkich członków uprawnionych do głosowania.
+6. Uchwały zapadają większością co najmniej 2/3 głosów członków obecnych i uprawnionych do głosowania, chyba że niniejszy Regulamin lub obowiązujące przepisy prawa wymagają zgody większej liczby członków.
+7. Wymóg większości co najmniej 2/3 oznacza, że liczba głosów „za” musi stanowić co najmniej 2/3 liczby członków obecnych i uprawnionych do głosowania w danej sprawie.
+8. Głosowania są jawne.
 
 ### § 20
 1. Zebranie Członków może zwołać każdy członek Stowarzyszenia.
@@ -188,20 +201,23 @@ Do kompetencji Zebrania Członków należy:
    1. dobrowolnego wystąpienia;
    2. śmierci;
    3. wykluczenia.
-2. Wykluczenie może nastąpić w szczególności w przypadku:
+2. Dobrowolne wystąpienie następuje przez złożenie Stowarzyszeniu oświadczenia w formie dokumentowej i jest skuteczne natychmiast z chwilą jego doręczenia.
+3. Wykluczenie może nastąpić w szczególności w przypadku:
    1. rażącego naruszenia niniejszego Regulaminu;
    2. rażącego naruszenia zasad przyjętych przez Stowarzyszenie;
    3. rażącego naruszania zasad bezpieczeństwa;
    4. działania na szkodę Stowarzyszenia;
    5. powtarzającego się i uporczywego naruszania zasad korzystania z przestrzeni;
    6. nieuiszczania składek członkowskich przez okres określony uchwałą Zebrania Członków.
-3. Decyzję o wykluczeniu podejmuje Zebranie Członków uchwałą podjętą większością co najmniej 2/3 głosów członków obecnych i uprawnionych do głosowania w tej sprawie.
-4. Członek, którego dotyczy decyzja, ma prawo przedstawienia swojego stanowiska przed jej podjęciem.
+4. Decyzję o wykluczeniu podejmuje Zebranie Członków uchwałą podjętą większością co najmniej 2/3 głosów członków obecnych i uprawnionych do głosowania w tej sprawie.
+5. Członek, którego dotyczy decyzja, ma prawo przedstawienia swojego stanowiska przed jej podjęciem.
 
 ## Rozdział X – Postanowienia końcowe
 
 ### § 25
-Zmiana niniejszego Regulaminu, rozwiązanie Stowarzyszenia albo jego przekształcenie wymaga uchwały Zebrania Członków podjętej większością co najmniej 2/3 głosów członków obecnych i uprawnionych do głosowania, chyba że obowiązujące przepisy wymagają zgody większej liczby członków.
+1. Zmiana niniejszego Regulaminu albo rozwiązanie Stowarzyszenia wymaga obecności co najmniej 2/3 wszystkich członków uprawnionych do głosowania oraz uchwały Zebrania Członków podjętej większością co najmniej 2/3 głosów członków obecnych i uprawnionych do głosowania.
+2. Przekształcenie Stowarzyszenia w stowarzyszenie podlegające wpisowi do Krajowego Rejestru Sądowego wymaga zgody wszystkich członków Stowarzyszenia wyrażonej w drodze uchwały oraz spełnienia pozostałych wymagań określonych w obowiązujących przepisach prawa.
+3. Członkowie są zawiadamiani o zamiarze przekształcenia nie później niż na miesiąc przed planowanym dniem podjęcia uchwały o przekształceniu.
 
 ### § 26
 W przypadku rozwiązania Stowarzyszenia Zebranie Członków wskazuje likwidatora lub likwidatorów oraz określa przeznaczenie majątku Stowarzyszenia zgodnie z obowiązującymi przepisami prawa.
