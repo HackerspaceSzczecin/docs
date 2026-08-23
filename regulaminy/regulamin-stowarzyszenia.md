@@ -1,239 +1,159 @@
-# Regulamin Stowarzyszenia Zwykłego
-# Hackerspace Szczecin
+# Poprawki regulaminu stowarzyszenia - opis zmian
 
-**Załącznik do uchwały Walnego Zebrania nr 1 z dnia ……………….. o przyjęciu Regulaminu Stowarzyszenia Zwykłego**
+## O co chodzi
 
-Niniejszy Regulamin określa strukturę organizacyjną i zasady ustrojowe Stowarzyszenia. Zasady korzystania z przestrzeni, bezpieczeństwa, współżycia oraz porządku w siedzibie Stowarzyszenia określa odrębny *Regulamin korzystania z przestrzeni*.
+Regulamin w obecnej wersji ma trzy rodzaje problemów: braki, które mogą wywołać wezwanie do uzupełnienia przy wpisie do ewidencji, wewnętrzne sprzeczności oraz dziury ustrojowe, które w praktyce blokują członkom możliwość kontrolowania Zarządu. Ten PR naprawia wszystkie trzy.
 
-## Rozdział I – Postanowienia ogólne
+Dokument urósł z 30 do 41 paragrafów i został przeorganizowany, więc diff jest duży. Poniżej mapa zmian.
 
-### § 1
-Stowarzyszenie nosi nazwę „Hackerspace Szczecin”, w skrócie „HaSzcze”, i zwane jest dalej „Stowarzyszeniem”.
-
-### § 2
-1. Stowarzyszenie jest dobrowolnym, samorządnym, trwałym zrzeszeniem o celach niezarobkowych, nieposiadającym osobowości prawnej.
-2. Stowarzyszenie może we własnym imieniu nabywać prawa, w tym własność i inne prawa rzeczowe, zaciągać zobowiązania, pozywać i być pozywane, na zasadach określonych w obowiązujących przepisach prawa.
-
-### § 3
-Podstawą działania Stowarzyszenia są przepisy ustawy Prawo o stowarzyszeniach oraz postanowienia niniejszego Regulaminu.
-
-### § 4
-Stowarzyszenie działa w szczególności w oparciu o zasadę otwartości, współpracy, wzajemnego szacunku, odpowiedzialności za wspólną przestrzeń i poszanowania autonomii jego członków.
-
-## Rozdział II – Teren działania i siedziba
-
-### § 5
-Terenem działania Stowarzyszenia jest Szczecin.
-
-### § 6
-Siedzibą Stowarzyszenia jest Szczecin.
-
-## Rozdział III – Cele Stowarzyszenia
-
-### § 7
-Celem działania Stowarzyszenia jest:
-
-1. upowszechnianie wiedzy;
-2. wspieranie innowacyjności;
-3. rozwój interdyscyplinarnych badań, prac naukowo-badawczych oraz działań kulturalnych i artystycznych;
-4. tworzenie i rozwój społeczności skupionej wokół technologii, nauki, sztuki, majsterkowania i wymiany wiedzy;
-5. tworzenie otwartej i współdzielonej przestrzeni do pracy nad projektami indywidualnymi i zespołowymi.
-
-### § 8
-Stowarzyszenie realizuje swoje cele poprzez:
-
-1. tworzenie i utrzymywanie infrastruktury stymulującej rozwój projektów oraz zapewniającej dostęp do narzędzi i urządzeń;
-2. prowadzenie spotkań, konferencji, seminariów, wykładów i szkoleń;
-3. organizowanie konkursów, wystaw, prezentacji, projekcji, happeningów i innych wydarzeń;
-4. udział w imprezach promujących naukę, technologię i kulturę;
-5. realizację i wspieranie projektów naukowych, technicznych, artystycznych i edukacyjnych;
-6. działalność edukacyjną, publicystyczną i wydawniczą;
-7. integrację środowiska akademickiego, naukowego, technicznego i przemysłowego;
-8. współpracę z krajowymi i zagranicznymi organizacjami;
-9. udostępnianie przestrzeni Stowarzyszenia członkom oraz innym osobom zgodnie z zasadami określonymi w niniejszym Regulaminie i *Regulaminie korzystania z przestrzeni*.
-
-## Rozdział IV – Członkowie Stowarzyszenia
-
-### § 9
-Członkiem Stowarzyszenia może zostać osoba fizyczna spełniająca wymagania wynikające z obowiązujących przepisów prawa oraz akceptująca cele i zasady działania Stowarzyszenia.
-
-### § 10
-1. Kandydat składa deklarację członkowską.
-2. O przyjęciu członka decyduje Zarząd.
-3. Od decyzji odmawiającej przyjęcia przysługuje odwołanie do Zebrania Członków w terminie 14 dni od otrzymania decyzji.
-4. Odwołanie składa się za pośrednictwem Zarządu.
-
-### § 11
-Członek Stowarzyszenia ma prawo:
-
-1. uczestniczyć w działalności Stowarzyszenia;
-2. korzystać z przestrzeni, urządzeń i zasobów Stowarzyszenia zgodnie z obowiązującymi zasadami, w tym z *Regulaminem korzystania z przestrzeni*;
-3. brać udział w Zebraniach Członków i głosowaniach;
-4. zgłaszać projekty, inicjatywy i propozycje dotyczące działalności Stowarzyszenia;
-5. korzystać z informacji dotyczących działalności Stowarzyszenia, z zastrzeżeniem informacji podlegających ochronie prawnej.
-
-### § 12
-Członek Stowarzyszenia jest zobowiązany:
-
-1. przestrzegać niniejszego Regulaminu, *Regulaminu korzystania z przestrzeni* oraz uchwał władz Stowarzyszenia;
-2. ponosić odpowiedzialność za szkody wyrządzone umyślnie lub wskutek rażącego niedbalstwa;
-3. uiszczać uchwalone składki członkowskie.
-
-## Rozdział V – Władze Stowarzyszenia
-
-### § 13
-1. Władzami Stowarzyszenia są:
-   1. Zebranie Członków;
-   2. Zarząd.
-2. Stowarzyszenie może posiadać organ kontroli wewnętrznej, którego zasady działania określa niniejszy Regulamin.
-3. Zebranie Członków jest najwyższą władzą Stowarzyszenia.
-
-### § 14
-Do wyłącznych kompetencji Zebrania Członków należy:
-
-1. uchwalanie i zmiana niniejszego Regulaminu;
-2. uchwalanie i zmiana *Regulaminu korzystania z przestrzeni*;
-3. wybór i odwoływanie członków Zarządu;
-4. ustalanie wysokości składek członkowskich;
-5. rozpatrywanie odwołań od decyzji Zarządu;
-6. podejmowanie decyzji w sprawach zastrzeżonych dla Zebrania Członków przez przepisy prawa lub niniejszy Regulamin;
-7. podejmowanie decyzji o rozwiązaniu Stowarzyszenia lub jego przekształceniu.
-
-### § 15
-1. Zarząd jest organem wykonawczym Stowarzyszenia.
-2. Zarząd składa się z co najmniej trzech osób.
-3. Zebranie Członków ustala liczbę członków Zarządu w drodze uchwały przed dokonaniem wyboru Zarządu.
-4. Regulamin nie określa maksymalnej liczby członków Zarządu.
-5. W Zarządzie nie ustanawia się funkcji Prezesa ani innych obligatoryjnych funkcji związanych z hierarchicznym podporządkowaniem członków Zarządu.
-6. Zarząd podejmuje decyzje zwykłą większością głosów, na zasadach określonych w niniejszym Regulaminie.
-7. Kadencja Zarządu trwa cztery lata.
-8. Członkowie Zarządu mogą być wybierani ponownie.
-
-### § 16 – Kompetencje i podejmowanie decyzji przez Zarząd
-
-1. Do kompetencji Zarządu należy w szczególności:
-   1. wykonywanie uchwał Zebrania Członków;
-   2. kierowanie bieżącą działalnością Stowarzyszenia;
-   3. reprezentowanie Stowarzyszenia;
-   4. przyjmowanie członków;
-   5. prowadzenie spraw związanych z funkcjonowaniem przestrzeni;
-   6. dbanie o majątek, bezpieczeństwo i prawidłowe funkcjonowanie Stowarzyszenia;
-   7. przygotowywanie planów działania i budżetu;
-   8. zwoływanie Zebrań Członków;
-   9. prowadzenie dokumentacji Stowarzyszenia;
-   10. rozstrzyganie bieżących spraw związanych z działalnością Stowarzyszenia;
-   11. uchwalanie szczegółowych zasad wykonawczych dotyczących korzystania z przestrzeni, o ile nie są one sprzeczne z niniejszym Regulaminem ani z *Regulaminem korzystania z przestrzeni*;
-   12. powoływanie i odwoływanie Przedstawicieli Zarządu do określonych spraw lub zakresów spraw.
-2. Każdy członek Zarządu ma jeden głos.
-3. Nieobecność członka Zarządu nie może być traktowana jako głos „za” ani „przeciw”, chyba że członek oddał swój głos w sposób dopuszczony niniejszym Regulaminem.
-
-### § 17 – Przedstawiciele Zarządu i reprezentacja Stowarzyszenia
-
-1. Stowarzyszenie jest reprezentowane przez Zarząd w sposób określony w niniejszym Regulaminie oraz ujawniony w ewidencji stowarzyszeń zwykłych.
-2. Do zaciągania zobowiązań majątkowych oraz składania oświadczeń woli powodujących powstanie zobowiązania majątkowego wymagane jest współdziałanie dwóch członków Zarządu, chyba że przepisy prawa lub szczególne pełnomocnictwo udzielone zgodnie z niniejszym Regulaminem stanowią inaczej.
-3. Zarząd może wyznaczyć spośród swoich członków Przedstawiciela Zarządu do prowadzenia lub reprezentowania Stowarzyszenia w określonej sprawie albo określonym zakresie spraw.
-4. Wyznaczenie Przedstawiciela Zarządu oraz udzielenie członkowi Zarządu pełnomocnictwa do określonej czynności lub czynności określonego rodzaju wymaga uchwały Zarządu.
-5. Uchwała powinna określać co najmniej osobę umocowaną, sprawę albo zakres spraw, zakres umocowania oraz, w razie potrzeby, czas, na jaki umocowanie zostaje ustanowione.
-6. Przedstawiciel Zarządu działa wyłącznie w zakresie udzielonego mu umocowania. Wyznaczenie Przedstawiciela nie oznacza przekazania mu ogólnych kompetencji Zarządu.
-7. Zarząd może w każdym czasie zmienić lub cofnąć umocowanie w zakresie, w jakim jest to prawnie dopuszczalne.
-8. Jeżeli dla skutecznego dokonania danej czynności wymagane jest udzielenie pełnomocnictwa albo współdziałanie określonej liczby członków Zarządu, uchwała o wyznaczeniu Przedstawiciela nie zastępuje takich wymogów.
-9. W przypadku czynności przekraczających zakres zwykłego zarządu wymagania określone w obowiązujących przepisach prawa mają pierwszeństwo przed postanowieniami niniejszego Regulaminu.
-
-### § 18 – Odwołanie członka Zarządu i konflikt interesów
-
-1. Członek Zarządu może w każdym czasie zrezygnować z pełnienia funkcji.
-2. Zebranie Członków może w każdym czasie odwołać członka Zarządu przed upływem kadencji uchwałą podjętą większością 2/3 głosów.
-3. Członek Zarządu nie bierze udziału w podejmowaniu przez Zarząd decyzji dotyczącej bezpośrednio jego osobistego interesu, odpowiedzialności, odwołania z funkcji albo zarzutu naruszenia Regulaminu.
-4. Jeżeli sprawa dotyczy całego Zarządu albo takiej jego części, że Zarząd nie może bezstronnie rozstrzygnąć sprawy, sprawę rozpatruje Zebranie Członków.
-5. Zebranie Członków może zawiesić członka Zarządu w wykonywaniu funkcji do czasu rozpatrzenia sprawy uchwałą podjętą zwykłą większością głosów.
-
-### § 19 – Uzupełnienie składu Zarządu
-
-1. Jeżeli skład Zarządu ulegnie zmniejszeniu w czasie trwania kadencji, Zebranie Członków może uzupełnić jego skład uchwałą podjętą zwykłą większością głosów.
-2. Jeżeli jest to konieczne dla zachowania zdolności Zarządu do działania, pozostali członkowie Zarządu mogą dokonać czasowego uzupełnienia składu w drodze kooptacji, w granicach dopuszczonych przez obowiązujące przepisy.
-3. Mandat osoby powołanej w drodze kooptacji wygasa najpóźniej z chwilą najbliższego Zebrania Członków, które może zatwierdzić jej dalsze pełnienie funkcji albo dokonać wyboru innej osoby.
-
-## Rozdział VI – Posiedzenia i głosowania
-
-### § 20
-1. Posiedzenia Zarządu oraz Zebrania Członków mogą odbywać się stacjonarnie, zdalnie albo w sposób mieszany.
-2. Osoba uczestnicząca zdalnie jest traktowana jak obecna osobiście, o ile zastosowany środek komunikacji umożliwia jej identyfikację, udział w dyskusji oraz oddanie głosu.
-3. Uchwały mogą być podejmowane przy wykorzystaniu środków komunikacji elektronicznej, jeżeli możliwe jest ustalenie tożsamości osób głosujących oraz treści oddanych głosów.
-4. Każda osoba uprawniona do głosowania ma jeden głos.
-5. Uchwały zapadają zwykłą większością głosów, chyba że niniejszy Regulamin lub przepisy prawa stanowią inaczej.
-6. Za zwykłą większość uważa się więcej głosów „za” niż głosów „przeciw” spośród prawidłowo oddanych głosów.
-7. W przypadku równej liczby głosów uchwała nie zostaje podjęta.
-8. Głosowania są jawne.
-
-### § 21
-1. O terminie i przedmiocie Zebrania Członków członkowie są informowani z odpowiednim wyprzedzeniem, nie krótszym niż 7 dni, chyba że wszyscy członkowie wyrażą zgodę na krótszy termin.
-2. Informacja może zostać przekazana pocztą elektroniczną, przez komunikator używany przez Stowarzyszenie albo w inny sposób przyjęty przez Stowarzyszenie.
-3. Informacja o zebraniu powinna zawierać termin, sposób uczestnictwa oraz proponowany porządek obrad.
-4. Z każdego Zebrania Członków sporządza się protokół zawierający co najmniej informacje o terminie, uczestnikach, podjętych uchwałach i wynikach głosowań.
-5. W przypadku głosowania elektronicznego należy zachować informację pozwalającą na odtworzenie wyniku głosowania w zakresie zgodnym z prawem i charakterem głosowania.
-
-## Rozdział VII – Zasady odpowiedzialności i rozwiązywania sporów
-
-### § 22
-1. Spory pomiędzy członkami dotyczące działalności Stowarzyszenia powinny być w pierwszej kolejności rozwiązywane poprzez rozmowę oraz próbę dobrowolnego porozumienia.
-2. Jeżeli porozumienie nie jest możliwe, sprawę może rozpatrzyć Zarząd.
-3. Jeżeli sprawa dotyczy członka Zarządu, rozpatruje ją Zebranie Członków.
-4. Członek będący stroną sporu nie bierze udziału w podejmowaniu decyzji przez organ, jeżeli zachodzi konflikt interesów.
-
-### § 23
-1. Sposób korzystania z przestrzeni Stowarzyszenia określa *Regulamin korzystania z przestrzeni*.
-2. Naruszenie zasad korzystania z przestrzeni może skutkować środkami określonymi w *Regulaminie korzystania z przestrzeni*.
-3. Wykluczenie członka następuje zgodnie z procedurą określoną w niniejszym Regulaminie.
-
-## Rozdział VIII – Majątek Stowarzyszenia
-
-### § 24
-1. Stowarzyszenie uzyskuje środki na działalność w sposób zgodny z obowiązującymi przepisami prawa, w szczególności ze składek członkowskich, darowizn, spadków, zapisów, dochodów z majątku oraz ofiarności publicznej, a także z dotacji na zasadach określonych w odrębnych przepisach.
-2. Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami prawa.
-
-## Rozdział IX – Utrata członkostwa
-
-### § 25
-1. Członkostwo ustaje wskutek:
-   1. dobrowolnego wystąpienia;
-   2. śmierci;
-   3. wykluczenia.
-2. Wykluczenie może nastąpić w szczególności w przypadku:
-   1. rażącego naruszenia niniejszego Regulaminu;
-   2. rażącego naruszenia *Regulaminu korzystania z przestrzeni*;
-   3. rażącego naruszania zasad bezpieczeństwa;
-   4. działania na szkodę Stowarzyszenia;
-   5. powtarzającego się i uporczywego naruszania zasad korzystania z przestrzeni;
-   6. nieuiszczania składek członkowskich przez okres określony uchwałą Zebrania Członków.
-3. Decyzję o wykluczeniu podejmuje Zarząd.
-4. Od decyzji o wykluczeniu przysługuje odwołanie do Zebrania Członków w terminie 14 dni od dnia otrzymania decyzji.
-5. Członek, którego dotyczy decyzja, ma prawo przedstawienia swojego stanowiska przed jej ostatecznym rozpatrzeniem.
-
-## Rozdział X – Postanowienia końcowe
-
-### § 26
-Zmiana niniejszego Regulaminu, rozwiązanie Stowarzyszenia albo jego przekształcenie wymaga uchwały Zebrania Członków podjętej większością 2/3 głosów, chyba że obowiązujące przepisy wymagają innej większości.
-
-### § 27
-W przypadku rozwiązania Stowarzyszenia Zebranie Członków wskazuje likwidatora lub likwidatorów oraz określa przeznaczenie majątku Stowarzyszenia zgodnie z obowiązującymi przepisami prawa.
-
-### § 28
-1. Szczegółowe zasady korzystania z przestrzeni, w szczególności dotyczące bezpieczeństwa, współżycia, porządku, rezerwacji, wydarzeń, dostępu, monitoringu oraz odpowiedzialności za mienie, określa *Regulamin korzystania z przestrzeni* uchwalany przez Zebranie Członków.
-2. *Regulamin korzystania z przestrzeni* nie może być sprzeczny z niniejszym Regulaminem.
-3. W przypadku sprzeczności pierwszeństwo ma niniejszy Regulamin.
-
-### § 29
-Zmiana *Regulaminu korzystania z przestrzeni* wymaga uchwały Zebrania Członków podjętej zwykłą większością głosów, chyba że Zebranie Członków postanowi inaczej.
-
-### § 30
-W sprawach nieuregulowanych niniejszym Regulaminem stosuje się przepisy obowiązującego prawa.
+**Zastrzeżenie:** to nie jest opinia prawna. Przed złożeniem do ewidencji warto, żeby ktoś z uprawnieniami rzucił okiem, szczególnie na § 25.
 
 ---
 
-**Miejsce na podpisy wszystkich członków założycieli:**
+## 1. Braki formalne, które mogły zablokować wpis
 
-....................................................................
+| Problem w starej wersji | Rozwiązanie |
+| --- | --- |
+| § 13 ust. 2 - organ kontroli wewnętrznej „którego zasady określa Regulamin", a zasad nie było | Skreślony. Nowy § 17 ust. 3 wprost stwierdza brak takiego organu i wskazuje, co go zastępuje |
+| Brak kworum Zarządu - jeden obecny członek głosujący „za" podejmował uchwałę | § 24 ust. 3: co najmniej połowa składu, nie mniej niż dwie osoby |
+| Brak zasad zwoływania posiedzeń Zarządu - część Zarządu mogła obradować bez reszty | § 24 ust. 1-2: zwołuje każdy członek, zawiadomienie 5 dni, tryb skrócony za zgodą wszystkich |
+| § 17 ust. 1 - definicja kołowa, reprezentacja niemajątkowa nieokreślona | § 25 ust. 2-3: niemajątkowa - każdy członek Zarządu samodzielnie; majątkowa - dwóch łącznie |
+| § 5 (teren = Szczecin) kontra § 8 pkt 8 (organizacje zagraniczne) | § 5: teren = Rzeczpospolita Polska, siedziba pozostaje Szczecin |
+| § 24 ust. 1 - „w szczególności" przy katalogu, który ustawa zamyka | Skreślone, katalog wyliczony wprost (§ 34 ust. 1) |
+| Nagłówek „Walne Zebranie" kontra „Zebranie Członków" w treści | Ujednolicone na „Zebranie Członków"; nagłówek wskazuje Zebranie Założycielskie |
 
-....................................................................
+---
 
-....................................................................
+## 2. Nowy paragraf, który jest najważniejszy w całym PR
+
+**§ 25 - zaciąganie zobowiązań.**
+
+Stara wersja machała ręką na przepisy o czynnościach przekraczających zwykły zarząd (§ 17 ust. 9: „przepisy mają pierwszeństwo"). W praktyce oznacza to, że Zarząd mógł w dobrej wierze podpisać umowę, która jest nieskuteczna.
+
+Ustawa wymaga **uprzedniej zgody wszystkich członków oraz pełnomocnictwa od każdego z nich** m.in. przy: nabyciu nieruchomości, kredycie, pożyczce, poręczeniu oraz **każdym zobowiązaniu powyżej 10 000 zł**.
+
+Nowy § 25 wprowadza trzy niezależne progi:
+
+1. **ust. 4** - powyżej 1000 zł jednorazowo: zgoda Zebrania Członków (nasz próg wewnętrzny)
+2. **ust. 8** - każde zobowiązanie cykliczne (najem, abonament): zgoda Zebrania niezależnie od kwoty
+3. **ust. 9** - czynności przekraczające zwykły zarząd: zgoda wszystkich członków plus pełnomocnictwa (próg ustawowy)
+
+Progi są kumulatywne (ust. 11) - spełnienie jednego nie zastępuje pozostałych.
+
+Do tego trzy przepisy, które sprawiają, że próg nie jest fikcją:
+
+- **ust. 5 - antydzielenie.** Zakup rozbity na kilka faktur wobec tego samego kontrahenta albo w ramach tego samego przedsięwzięcia w okresie 30 dni liczy się jako jedno zobowiązanie. Bez tego 4000 zł da się przepuścić jako cztery transakcje po 1000
+- **ust. 6 - refundacje.** Zwrot członkowi wydatku poniesionego na rzecz Stowarzyszenia wlicza się do limitu. Bez tego wystarczy, że ktoś kupi za swoje i wystawi rachunek
+- **ust. 7 - budżet roczny.** Zebranie może uchwalić limity wydatków w kategoriach; w ich granicach Zarząd działa bez odrębnych uchwał. To wentyl, który sprawia, że niski próg nie zablokuje bieżącego życia - ale nie omija wymogów z ust. 8 i 9
+
+Plus **ust. 10**: Zarząd musi uprzedzić członków *przed* rozpoczęciem negocjacji umowy z ust. 8 lub 9, żeby nikt nie odkrył wymogu zgody wszystkich na dzień przed podpisaniem najmu.
+
+**To jest realny koszt formy zwykłej.** Roczna umowa najmu prawie na pewno przekroczy 10 000 zł, więc przy każdej takiej umowie trzeba zebrać podpisy wszystkich członków. Przy 12 osobach wykonalne, przy 30 - nie. Argument za przejściem na KRS, gdy tylko lokal będzie wasz.
+
+---
+
+## 3. Dziury ustrojowe
+
+**Zakleszczenie: Zebranie zwoływał tylko Zarząd, a tylko Zebranie mogło Zarząd odwołać.**
+
+- § 18 ust. 2: Zwyczajne Zebranie obowiązkowo raz w roku, do 31 marca
+- § 18 ust. 3-4: Nadzwyczajne na wniosek 1/3 członków, minimum pięciu; Zarząd zwołuje w 21 dni, termin nie później niż 45 dni od wniosku
+- § 18 ust. 5: jeśli Zarząd nie zwoła, zwołują wnioskodawcy albo dowolnych trzech członków
+- § 28 ust. 6: jeśli Zarząd przestał istnieć, Zebranie zwołuje trzech członków
+
+**Martwa ścieżka odwoławcza.** Stara wersja dawała 14 dni na odwołanie, ale nikt nie miał obowiązku zwołać Zebrania ani terminu na rozpatrzenie. § 10 ust. 5: Zarząd przedstawia odwołanie najbliższemu Zebraniu, nie później niż w 60 dni, w razie potrzeby zwołując je w tym celu. § 15 ust. 5 dodaje skutek zawieszający - wykluczenie nie wchodzi w życie do rozpatrzenia odwołania, z wyjątkiem wstępu do przestrzeni, jeśli chodzi o bezpieczeństwo.
+
+**Brak kworum Zebrania.** Przy 30 członkach dwie osoby mogły zmienić Regulamin. § 20: kworum 1/3, drugi termin bez kworum po 30 minutach (musi być zapowiedziany w zawiadomieniu), a przy zmianie Regulaminu i rozwiązaniu Stowarzyszenia kworum połowy bez możliwości drugiego terminu.
+
+**Zero sprawozdawczości.** To była najpoważniejsza dziura, biorąc pod uwagę, że członkowie odpowiadają majątkiem osobistym za długi.
+
+- § 19 ust. 1 pkt 6-7: roczne sprawozdanie z działalności i finansów plus absolutorium
+- § 11 pkt 7: prawo wglądu w dokumentację finansową
+- § 34 ust. 3-5: obowiązek prowadzenia ewidencji, udostępnienie sprawozdania 7 dni przed Zebraniem, na żądanie trzech członków wykaz zobowiązań w 14 dni
+
+**Zarząd praktycznie nieusuwalny.** Kadencja skrócona z 4 lat do 2 (§ 21 ust. 6), próg odwołania obniżony z 2/3 do zwykłej większości (§ 27 ust. 2). Skoro kadencja krótka, wysoki próg nie jest już potrzebny, a razem tworzyły blokadę.
+
+**Zawieszenie bez terminu.** § 27 ust. 3: do najbliższego Zebrania i nie dłużej niż trzy miesiące.
+
+**Głosowania zawsze jawne.** § 30 ust. 9: tajne obowiązkowo przy wyborze i odwołaniu Zarządu, zawieszeniu członka Zarządu, wykluczeniu członka i rozpatrywaniu odwołania. Ust. 10: tajne na żądanie 1/5 obecnych.
+
+---
+
+## 4. Pozostałe zmiany
+
+- **§ 2 ust. 3-4** - odpowiedzialność członków za zobowiązania Stowarzyszenia napisana wprost, plus obowiązek oświadczenia w deklaracji. Nikt nie powinien wchodzić w to nieświadomie
+- **§ 8 ust. 2-3** - wprost: brak działalności gospodarczej i odpłatnej pożytku publicznego, przestrzeń dla nieczłonków nieodpłatnie
+- **§ 9** - członkostwo od 18 lat, młodsi jako uczestnicy za zgodą opiekuna (patrz punkt 5 poniżej)
+- **§ 13** - doprecyzowanie, że ograniczenie odpowiedzialności za szkody działa tylko wewnątrz i nie dotyka odpowiedzialności z § 2 ust. 3
+- **§ 16** - zaległości składkowe: zawieszenie prawa głosu po 2 miesiącach, wykluczenie po 4; plus możliwość zawieszenia obowiązku składkowego na wniosek, do 6 miesięcy
+- **§ 15 ust. 6** - osoba wykluczona może wrócić po 6 miesiącach, a przy wykluczeniu za składki po uregulowaniu zaległości
+- **§ 22** - obowiązek ujawnienia bliskich relacji przed wyborem do Zarządu, zakaz stanowienia przez nie większości składu (patrz punkt 5)
+- **§ 23 ust. 2** - granica między instrukcjami Zarządu a *Regulaminem korzystania z przestrzeni*: Zarząd tylko technicznie, jak obsługiwać urządzenie, bez sankcji, opłat i zasad dostępu
+- **§ 28 ust. 3, 5** - kooptacja ograniczona do 1/3 składu, tryb awaryjny gdy Zarząd spadnie poniżej trzech osób
+- **§ 29 ust. 5-6** - członek może wnieść sprawę do porządku obrad na 3 dni przed; zakaz uchwał spoza porządku obrad
+- **§ 30 ust. 3** - głosowanie obiegowe z minimalnym oknem 72 godzin, wyłączone przy sprawach wymagających tajności
+- **§ 32** - spory: termin 30 dni dla Zarządu, przejście do Zebrania przy bezczynności, prawo do przedstawienia stanowiska
+- **§ 37** - obowiązek zgłoszenia organowi nadzorującemu zmiany regulaminu, składu Zarządu itd. w 7 dni
+- **§ 40** - wejście w życie, pierwsza kadencja, termin 6 miesięcy na przedstawienie *Regulaminu korzystania z przestrzeni*
+- Rozdział o utracie członkostwa przeniesiony sprzed rozdziału o majątku tuż za rozdział o członkostwie
+- Nowy plik `deklaracja-czlonkowska.md`
+
+---
+
+## 5. Do decyzji na spotkaniu - wybrałem wariant, ale to nie jest przesądzone
+
+### 5.1. Osoby bliskie w Zarządzie (§ 22)
+
+Trzyosobowy Zarząd, w którym dwie osoby są parą, to formalnie trzy głosy, faktycznie dwa. Jedna para kontroluje organ.
+
+**Wybrany wariant:** obowiązek ujawnienia relacji przed wyborem plus zakaz stanowienia przez osoby bliskie większości składu Zarządu.
+
+**Konsekwencja:** przy Zarządzie trzyosobowym para musi wybrać jedno z siebie. Jeśli oboje mają być w Zarządzie, Zarząd musi liczyć pięć osób.
+
+**Warianty alternatywne:**
+
+- (a) sam obowiązek ujawnienia, bez zakazu - Zebranie wybiera świadomie i tyle
+- (b) zakaz tylko przy Zarządzie liczącym mniej niż pięć osób
+- (c) bez żadnej regulacji, zostaje ogólne wyłączenie przy konflikcie interesów z § 27 ust. 4
+
+### 5.2. Małoletni (§ 9)
+
+Zgoda rodzica nie przenosi na rodzica odpowiedzialności za długi Stowarzyszenia - ta obciąża członka, także szesnastoletniego.
+
+**Wybrany wariant:** członkostwo od 18 lat, młodsi jako uczestnicy za pisemną zgodą opiekuna - wchodzą do przestrzeni na zasadach *Regulaminu korzystania z przestrzeni*, nie głosują, nie odpowiadają majątkiem.
+
+**Wariant alternatywny:** ustawa dopuszcza członkostwo osób 16-18 z prawem wyborczym czynnym i biernym, pod warunkiem że większość Zarządu stanowią osoby o pełnej zdolności do czynności prawnych. Jeśli grupa chce tej drogi, § 9 wymaga przepisania, a deklaracja - osobnej wersji z podpisem opiekuna. Warto wtedy zapytać prawnika, bo obciążanie małoletniego solidarną odpowiedzialnością za długi organizacji to nie jest oczywista sprawa.
+
+### 5.3. Próg 1000 zł (§ 25 ust. 4)
+
+Próg jest celowo niski, bo Stowarzyszenie startuje bez środków i bez historii wydatków, a każde zobowiązanie bez pokrycia obciąża prywatne majątki członków. Najem i inne koszty stałe łapie osobno ust. 8, więc ust. 4 dotyczy wyłącznie zakupów jednorazowych: sprzętu, materiałów, ubezpieczenia.
+
+Rozluźnienie ma się odbywać przez **budżet roczny z ust. 7**, a nie przez podnoszenie progu. Uchwalacie raz w roku limity w kategoriach i przez rok Zarząd działa w ich granicach bez pytania. Dzięki temu zaczynamy ciasno, a poluzowujemy wtedy, gdy znamy realne liczby, zamiast zgadywać je dziś.
+
+Do rozważenia, gdy pojawią się pierwsze faktury: czy 30 dni w ust. 5 to właściwe okno, czy zbyt szerokie przy zakupach materiałów do jednego projektu.
+
+### 5.4. Kworum 1/3 (§ 20 ust. 1)
+
+Przy 12 członkach to cztery osoby. Przy 40 - czternaście, co przy realnej frekwencji może okazać się nieosiągalne. Drugi termin to zabezpiecza, ale warto o tym pomyśleć, zanim baza urośnie.
+
+### 5.6. Odpowiedzialność byłych i nowych członków - do zapytania prawnika
+
+Art. 40 ust. 1b stanowi, że odpowiedzialność członka **powstaje z chwilą, gdy egzekucja z majątku Stowarzyszenia okaże się bezskuteczna** - nie z chwilą zaciągnięcia zobowiązania. Ustawa mówi przy tym o „członkach", nie o osobach, które nimi były.
+
+Rodzi to dwa pytania, na które przepisy nie dają jasnej odpowiedzi:
+
+- **Czy wystąpienie zwalnia?** Część komentatorów uważa, że skuteczne wystąpienie przed wniesieniem powództwa przez wierzyciela powinno chronić byłego członka. Nie ma tu przepisu analogicznego do art. 10 § 3 Kodeksu spółek handlowych, który przesądzałby sprawę.
+- **Czy nowy członek przejmuje stare długi?** Jeżeli odpowiedzialność powstaje przy bezskutecznej egzekucji, to osoba, która przystąpiła po zaciągnięciu zobowiązania, może zostać nim objęta. To jest ryzyko realniejsze i praktycznie nieopisywane.
+
+**Rozwiązanie przyjęte w PR:** nie rozstrzygamy tego w regulaminie, bo nie możemy. Zamiast tego:
+
+- § 14 ust. 3 wprost stwierdza, że kwestię rozstrzygają przepisy, nie Regulamin
+- § 14 ust. 4 - występujący dostaje na żądanie zestawienie zobowiązań na dzień wystąpienia
+- § 10 ust. 6 - kandydat dostaje zestawienie zobowiązań **przed** przyjęciem, wraz z pouczeniem o momencie powstania odpowiedzialności
+- deklaracja opisuje obie niepewności zamiast udawać, że ich nie ma
+
+**To jest pytanie numer jeden do prawnika**, ważniejsze niż cała reszta dokumentu. Jeśli odpowiedź brzmi „nowy członek odpowiada za stare długi", to zamyka dyskusję o pozostawaniu przy formie zwykłej dłużej niż do podpisania najmu.
+
+### 5.5. Kadencja dwa lata (§ 21 ust. 6)
+
+Rok oznacza wybory bez przerwy i zero ciągłości przy dłuższych sprawach, jak umowa najmu. Dwa lata przy progu odwołania obniżonym do zwykłej większości dają i stabilność, i możliwość szybkiej reakcji.
