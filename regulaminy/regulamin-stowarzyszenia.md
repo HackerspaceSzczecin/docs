@@ -1,7 +1,7 @@
 # Regulamin Stowarzyszenia Zwykłego
 # Hackerspace Szczecin
 
-**Załącznik do uchwały Walnego Zebrania nr 1 z dnia 23.08.2026 r. o przyjęciu Regulaminu Stowarzyszenia Zwykłego**
+**Załącznik do uchwały zebrania założycielskiego nr 1 z dnia 23.08.2026 r. o przyjęciu Regulaminu Stowarzyszenia Zwykłego**
 
 ## Rozdział I – Postanowienia ogólne
 
