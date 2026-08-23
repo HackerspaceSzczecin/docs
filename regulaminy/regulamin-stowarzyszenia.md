@@ -83,7 +83,7 @@ Do kompetencji Zebrania Członków należy:
 
 1. uchwalanie i zmiana niniejszego Regulaminu;
 2. przyjmowanie i zmiana zasad dotyczących korzystania z przestrzeni;
-3. wybór i odwoływanie Przedstawiciela Stowarzyszenia;
+3. powoływanie i odwoływanie Przedstawicieli Stowarzyszenia do określonych spraw oraz Przedstawiciela Stowarzyszenia do spraw urzędowych;
 4. ustalanie wysokości składek członkowskich;
 5. przyjmowanie i wykluczanie członków;
 6. kierowanie bieżącą działalnością Stowarzyszenia;
@@ -95,36 +95,52 @@ Do kompetencji Zebrania Członków należy:
 12. podejmowanie decyzji o rozwiązaniu Stowarzyszenia lub jego przekształceniu.
 
 ### § 15
-1. Zebranie Członków wybiera spośród członków Stowarzyszenia Przedstawiciela Stowarzyszenia.
-2. Kadencja Przedstawiciela Stowarzyszenia trwa cztery lata.
-3. Ta sama osoba może być wybierana ponownie.
-4. Przedstawiciel Stowarzyszenia może w każdym czasie zrezygnować z pełnienia funkcji.
-5. Zebranie Członków może w każdym czasie odwołać Przedstawiciela Stowarzyszenia.
+1. Zebranie Członków może powołać spośród członków Stowarzyszenia Przedstawiciela Stowarzyszenia do załatwienia określonej sprawy.
+2. Zebranie Członków może powołać spośród członków Stowarzyszenia Przedstawiciela Stowarzyszenia do spraw urzędowych na roczną kadencję.
+3. Przedstawiciel Stowarzyszenia do określonej sprawy jest powoływany wyłącznie na czas niezbędny do załatwienia sprawy wskazanej w uchwale o jego powołaniu.
+4. Powołanie do określonej sprawy nie następuje na kadencję i nie przyznaje Przedstawicielowi Stowarzyszenia kompetencji w innych sprawach.
+5. Ta sama osoba może być powoływana do więcej niż jednej określonej sprawy, przy czym każda sprawa wymaga odrębnego określenia zakresu umocowania.
+6. Ta sama osoba może być powoływana na kolejne kadencje Przedstawiciela Stowarzyszenia do spraw urzędowych.
+7. Przedstawiciel Stowarzyszenia może w każdym czasie zrezygnować z zajmowania się powierzoną mu sprawą albo z pełnienia funkcji Przedstawiciela Stowarzyszenia do spraw urzędowych.
+8. Zebranie Członków może w każdym czasie odwołać Przedstawiciela Stowarzyszenia z zajmowania się daną sprawą albo z pełnienia funkcji Przedstawiciela Stowarzyszenia do spraw urzędowych.
 
 ### § 16 – Kompetencje Przedstawiciela Stowarzyszenia
 
-1. Przedstawiciel Stowarzyszenia reprezentuje Stowarzyszenie i wykonuje uchwały Zebrania Członków.
-2. Do obowiązków Przedstawiciela Stowarzyszenia należy w szczególności:
-   1. zwoływanie Zebrań Członków;
-   2. prowadzenie dokumentacji Stowarzyszenia;
-   3. wykonywanie czynności powierzonych mu uchwałami Zebrania Członków.
-3. Przedstawiciel Stowarzyszenia nie jest uprawniony do samodzielnego podejmowania decyzji zastrzeżonych dla Zebrania Członków.
+1. Przedstawiciel Stowarzyszenia do określonej sprawy działa wyłącznie w tej sprawie oraz w granicach kompetencji określonych uchwałą Zebrania Członków.
+2. Przedstawiciel Stowarzyszenia do spraw urzędowych prowadzi kontakty z organami administracji publicznej, organem ewidencyjnym oraz innymi instytucjami wyłącznie w granicach kompetencji określonych uchwałą Zebrania Członków.
+3. Uchwała o powołaniu Przedstawiciela Stowarzyszenia określa co najmniej:
+   1. osobę powołaną;
+   2. określoną sprawę albo zakres spraw urzędowych, do których zostaje powołana;
+   3. czynności, do których jest uprawniona;
+   4. zakres udzielonego umocowania.
+4. Przedstawiciel Stowarzyszenia wykonuje uchwałę Zebrania Członków dotyczącą powierzonej mu sprawy lub zakresu spraw urzędowych i nie jest uprawniony do samodzielnego rozszerzania zakresu swojego umocowania.
+5. Powołanie Przedstawiciela Stowarzyszenia nie przenosi na niego kompetencji Zebrania Członków ani nie uprawnia go do podejmowania decyzji w imieniu Zebrania Członków.
+6. Umocowanie Przedstawiciela Stowarzyszenia do spraw urzędowych nie obejmuje zaciągania zobowiązań majątkowych, chyba że odrębna uchwała Zebrania Członków oraz udzielone na jej podstawie pełnomocnictwo wyraźnie stanowią inaczej.
 
 ### § 17 – Reprezentacja Stowarzyszenia
 
-1. Stowarzyszenie jest reprezentowane przez Przedstawiciela Stowarzyszenia w sposób określony w niniejszym Regulaminie oraz ujawniony w ewidencji stowarzyszeń zwykłych.
+1. W określonej sprawie albo w zakresie spraw urzędowych objętych uchwałą o powołaniu Stowarzyszenie jest reprezentowane przez właściwego Przedstawiciela Stowarzyszenia wyłącznie w granicach udzielonego mu umocowania.
 2. Czynności przekraczające zakres zwykłego zarządu wymagają uprzedniej zgody wszystkich członków Stowarzyszenia oraz udzielenia przez nich pełnomocnictwa do dokonania danej czynności, jeżeli wymagają tego obowiązujące przepisy prawa.
-3. Zebranie Członków może udzielić członkowi Stowarzyszenia pełnomocnictwa do określonej czynności lub czynności określonego rodzaju w granicach dopuszczonych przez prawo.
-4. Uchwała o udzieleniu pełnomocnictwa powinna określać co najmniej osobę umocowaną, zakres umocowania oraz, w razie potrzeby, czas, na jaki umocowanie zostaje ustanowione.
+3. Jeżeli dokonanie czynności w powierzonej sprawie wymaga pełnomocnictwa, powołanie Przedstawiciela Stowarzyszenia nie zastępuje udzielenia takiego pełnomocnictwa w formie wymaganej przez prawo.
 
 ### § 18 – Konflikt interesów
 
 1. Członek Stowarzyszenia nie bierze udziału w głosowaniu dotyczącym bezpośrednio jego osobistego interesu, odpowiedzialności, wykluczenia, odwołania z funkcji albo zarzutu naruszenia Regulaminu.
 2. Członka wyłączonego od głosowania nie uwzględnia się przy ustalaniu liczby obecnych i uprawnionych do głosowania w danej sprawie.
 
-### § 19 – Brak Przedstawiciela Stowarzyszenia
+### § 19 – Wygaśnięcie umocowania Przedstawiciela Stowarzyszenia
 
-W razie wygaśnięcia funkcji Przedstawiciela Stowarzyszenia Zebranie Członków niezwłocznie wybiera nowego Przedstawiciela Stowarzyszenia.
+1. Umocowanie Przedstawiciela Stowarzyszenia do określonej sprawy wygasa wskutek:
+   1. zakończenia sprawy, do której został powołany;
+   2. odwołania przez Zebranie Członków;
+   3. rezygnacji Przedstawiciela Stowarzyszenia;
+   4. ustania członkostwa Przedstawiciela Stowarzyszenia.
+2. Umocowanie Przedstawiciela Stowarzyszenia do spraw urzędowych wygasa wskutek:
+   1. upływu rocznej kadencji;
+   2. odwołania przez Zebranie Członków;
+   3. rezygnacji Przedstawiciela Stowarzyszenia;
+   4. ustania członkostwa Przedstawiciela Stowarzyszenia.
+3. Po wygaśnięciu umocowania Przedstawiciel Stowarzyszenia niezwłocznie przekazuje Stowarzyszeniu dokumentację i informacje dotyczące powierzonej mu sprawy lub zakresu spraw urzędowych.
 
 ## Rozdział VI – Posiedzenia i głosowania
 
@@ -139,11 +155,13 @@ W razie wygaśnięcia funkcji Przedstawiciela Stowarzyszenia Zebranie Członków
 8. Głosowania są jawne.
 
 ### § 21
-1. O terminie i przedmiocie Zebrania Członków członkowie są informowani z odpowiednim wyprzedzeniem, nie krótszym niż 7 dni, chyba że wszyscy członkowie wyrażą zgodę na krótszy termin.
-2. Informacja może zostać przekazana pocztą elektroniczną, przez komunikator używany przez Stowarzyszenie albo w inny sposób przyjęty przez Stowarzyszenie.
-3. Informacja o zebraniu powinna zawierać termin, sposób uczestnictwa oraz proponowany porządek obrad.
-4. Z każdego Zebrania Członków sporządza się protokół zawierający co najmniej informacje o terminie, uczestnikach, podjętych uchwałach i wynikach głosowań.
-5. W przypadku głosowania elektronicznego należy zachować informację pozwalającą na odtworzenie wyniku głosowania w zakresie zgodnym z prawem i charakterem głosowania.
+1. Zebranie Członków może zwołać każdy członek Stowarzyszenia.
+2. O terminie i przedmiocie Zebrania Członków członkowie są informowani z odpowiednim wyprzedzeniem, nie krótszym niż 7 dni, chyba że wszyscy członkowie wyrażą zgodę na krótszy termin.
+3. Informacja może zostać przekazana pocztą elektroniczną, przez komunikator używany przez Stowarzyszenie albo w inny sposób przyjęty przez Stowarzyszenie.
+4. Informacja o zebraniu powinna zawierać termin, sposób uczestnictwa oraz proponowany porządek obrad.
+5. Obecni członkowie wyznaczają osobę odpowiedzialną za sporządzenie protokołu Zebrania Członków.
+6. Z każdego Zebrania Członków sporządza się protokół zawierający co najmniej informacje o terminie, uczestnikach, podjętych uchwałach i wynikach głosowań.
+7. W przypadku głosowania elektronicznego należy zachować informację pozwalającą na odtworzenie wyniku głosowania w zakresie zgodnym z prawem i charakterem głosowania.
 
 ## Rozdział VII – Zasady odpowiedzialności i rozwiązywania sporów
 
