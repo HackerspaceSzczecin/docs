@@ -120,12 +120,12 @@ Do kompetencji Zebrania Członków należy:
 ### § 17 – Reprezentacja Stowarzyszenia
 
 1. W określonej sprawie albo w zakresie spraw urzędowych objętych uchwałą o powołaniu Stowarzyszenie jest reprezentowane przez właściwego Przedstawiciela Stowarzyszenia wyłącznie w granicach udzielonego mu umocowania.
-2. Czynności przekraczające zakres zwykłego zarządu wymagają uprzedniej zgody wszystkich członków Stowarzyszenia oraz udzielenia przez nich pełnomocnictwa do dokonania danej czynności, jeżeli wymagają tego obowiązujące przepisy prawa.
+2. Czynności przekraczające zakres zwykłego zarządu wymagają uprzedniej zgody Zebrania Członków Stowarzyszenia oraz udzielenia przez nie pełnomocnictwa do dokonania danej czynności, jeżeli wymagają tego obowiązujące przepisy prawa.
 3. Jeżeli dokonanie czynności w powierzonej sprawie wymaga pełnomocnictwa, powołanie Przedstawiciela Stowarzyszenia nie zastępuje udzielenia takiego pełnomocnictwa w formie wymaganej przez prawo.
 
 ### § 18 – Konflikt interesów
 
-1. Członek Stowarzyszenia nie bierze udziału w głosowaniu dotyczącym bezpośrednio jego osobistego interesu, odpowiedzialności, wykluczenia, odwołania z funkcji albo zarzutu naruszenia Regulaminu.
+1. Członek Stowarzyszenia nie bierze udziału w głosowaniu dotyczącym bezpośrednio jego osobistego interesu, odpowiedzialności, wykluczenia, odwołania z funkcji lub zarzutu naruszenia Regulaminu.
 2. Członka wyłączonego od głosowania nie uwzględnia się przy ustalaniu liczby obecnych i uprawnionych do głosowania w danej sprawie.
 
 ### § 19 – Wygaśnięcie umocowania Przedstawiciela Stowarzyszenia
@@ -151,7 +151,6 @@ Do kompetencji Zebrania Członków należy:
 4. Każda osoba uprawniona do głosowania ma jeden głos.
 5. Uchwały zapadają większością co najmniej 2/3 głosów członków obecnych i uprawnionych do głosowania, chyba że obowiązujące przepisy prawa wymagają zgody większej liczby członków.
 6. Wymóg większości co najmniej 2/3 oznacza, że liczba głosów „za” musi stanowić co najmniej 2/3 liczby członków obecnych i uprawnionych do głosowania w danej sprawie.
-7. W przypadku równej liczby głosów uchwała nie zostaje podjęta.
 8. Głosowania są jawne.
 
 ### § 21
@@ -179,7 +178,7 @@ Do kompetencji Zebrania Członków należy:
 ## Rozdział VIII – Majątek Stowarzyszenia
 
 ### § 24
-1. Stowarzyszenie uzyskuje środki na działalność w sposób zgodny z obowiązującymi przepisami prawa, w szczególności ze składek członkowskich, darowizn, spadków, zapisów, dochodów z majątku oraz ofiarności publicznej, a także z dotacji na zasadach określonych w odrębnych przepisach.
+1. Stowarzyszenie uzyskuje środki na działalność w sposób zgodny z obowiązującymi przepisami prawa.
 2. Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami prawa.
 
 ## Rozdział IX – Utrata członkostwa
@@ -207,23 +206,5 @@ Zmiana niniejszego Regulaminu, rozwiązanie Stowarzyszenia albo jego przekształ
 ### § 27
 W przypadku rozwiązania Stowarzyszenia Zebranie Członków wskazuje likwidatora lub likwidatorów oraz określa przeznaczenie majątku Stowarzyszenia zgodnie z obowiązującymi przepisami prawa.
 
-### § 28
-1. Szczegółowe zasady korzystania z przestrzeni, w szczególności dotyczące bezpieczeństwa, współżycia, porządku, rezerwacji, wydarzeń, dostępu, monitoringu oraz odpowiedzialności za mienie, są przyjmowane przez Zebranie Członków.
-2. Zasady przyjęte przez Stowarzyszenie nie mogą być sprzeczne z niniejszym Regulaminem.
-3. W przypadku sprzeczności pierwszeństwo ma niniejszy Regulamin.
-
-### § 29
-Zmiana zasad przyjętych przez Stowarzyszenie wymaga uchwały Zebrania Członków podjętej większością co najmniej 2/3 głosów członków obecnych i uprawnionych do głosowania.
-
 ### § 30
 W sprawach nieuregulowanych niniejszym Regulaminem stosuje się przepisy obowiązującego prawa.
-
----
-
-**Miejsce na podpisy wszystkich członków założycieli:**
-
-....................................................................
-
-....................................................................
-
-....................................................................
