@@ -13,3 +13,11 @@ trim_trailing_whitespace = false
 [*.{json,jsonc,yml,yaml}]
 indent_style = space
 indent_size = 2
+
+[*.py]
+indent_style = space
+indent_size = 4
+
+[*.{css,sh}]
+indent_style = space
+indent_size = 2

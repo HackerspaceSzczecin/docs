@@ -1,0 +1,51 @@
+#!/usr/bin/env bash
+#
+# Render the association's Markdown documents to PDF inside Docker.
+#
+#   bin/make-pdf                          all documents
+#   bin/make-pdf regulaminy/regulamin-stowarzyszenia.md
+#   bin/make-pdf --html --png             also write HTML preview and page PNGs
+#   bin/make-pdf --rebuild                force a rebuild of the image
+#
+# Everything else is passed through to the renderer.
+
+set -euo pipefail
+
+REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+IMAGE="haszcze-docs-pdf"
+CONTEXT="$REPO_ROOT/tools/pdf"
+
+rebuild=0
+args=()
+for arg in "$@"; do
+  if [[ "$arg" == "--rebuild" ]]; then
+    rebuild=1
+  else
+    args+=("$arg")
+  fi
+done
+
+# The image carries a fingerprint of the recipe and the styling, so a CSS
+# tweak never silently renders with a stale image.
+fingerprint="$(cat "$CONTEXT/Dockerfile" "$CONTEXT/requirements.txt" \
+  "$CONTEXT/render.py" "$CONTEXT/config.yaml" "$CONTEXT/style/"*.css \
+  | sha256sum | cut -c1-16)"
+built="$(docker image inspect --format '{{ index .Config.Labels "fingerprint" }}' \
+  "$IMAGE" 2>/dev/null || true)"
+
+if [[ $rebuild -eq 1 || "$fingerprint" != "$built" ]]; then
+  if [[ -n "$built" ]]; then
+    echo "==> Zmiany w generatorze, przebudowuje obraz"
+  else
+    echo "==> Buduje obraz $IMAGE (tylko za pierwszym razem)"
+  fi
+  docker build --quiet --label "fingerprint=$fingerprint" \
+    --tag "$IMAGE" "$CONTEXT" >/dev/null
+fi
+
+# Run as the invoking user so generated files are not owned by root.
+exec docker run --rm \
+  --user "$(id -u):$(id -g)" \
+  --volume "$REPO_ROOT:/work" \
+  --workdir /work \
+  "$IMAGE" "${args[@]}"

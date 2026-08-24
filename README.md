@@ -59,6 +59,56 @@ dokumentów.
 Historia gita nie zastępuje dokumentacji uchwał - jest jedynie zapisem
 technicznym.
 
+## Generowanie PDF
+
+Dokumenty źródłowe są w Markdown, ale do archiwum i do urzędu potrzebny jest
+PDF. Generator działa w kontenerze Dockera, więc nie wymaga niczego
+zainstalowanego lokalnie poza Dockerem i daje identyczny skład na każdym
+komputerze:
+
+```bash
+bin/make-pdf                                        # wszystkie dokumenty
+bin/make-pdf regulaminy/regulamin-stowarzyszenia.md # jeden dokument
+bin/make-pdf --html --png                           # dodatkowo podgląd HTML i PNG
+bin/make-pdf --rebuild                              # wymuszenie przebudowy obrazu
+```
+
+Wynik trafia do katalogu `out/`, który jest poza kontrolą wersji - źródłem
+prawdy pozostaje Markdown. Obraz przebudowuje się sam, gdy zmieni się przepis
+lub styl, więc poprawka w CSS nigdy nie renderuje się ze starego obrazu.
+
+Powstający plik jest zgodny z **PDF/A-3b**: fonty są osadzone, a dokument jest
+samowystarczalny, czego wymaga długoterminowa archiwizacja. Nawigacja po
+paragrafach (zakładki PDF) budowana jest automatycznie z nagłówków.
+
+### Metadane
+
+Każdy PDF zawiera tytuł, autora, temat, słowa kluczowe oraz daty utworzenia
+i modyfikacji. Wartości wspólne dla wszystkich dokumentów są
+w [tools/pdf/config.yaml](tools/pdf/config.yaml); tytuł domyślnie pochodzi
+z nagłówka `#`, a data - z ostatniej zmiany pliku.
+
+Pojedynczy dokument może nadpisać dowolne pole blokiem YAML na początku pliku:
+
+```yaml
+---
+title: Uchwała nr 7 Zebrania Członków
+author: Zebranie Członków Stowarzyszenia
+subject: Uchwała w sprawie wysokości składek członkowskich
+keywords: [uchwała, składki, 2026]
+created: 2026-09-01T18:00:00+02:00
+---
+```
+
+Blok jest opcjonalny - dokumenty bez niego generują się poprawnie.
+
+### Wygląd i łamanie stron
+
+Cały wygląd opisuje [tools/pdf/style/document.css](tools/pdf/style/document.css).
+Krój pisma i stopień można zmienić dla wszystkich dokumentów naraz
+w `config.yaml` (sekcja `style`), bez dotykania CSS. Wymuszony podział strony
+zapisuje się w Markdownie jako `<!-- pagebreak -->`.
+
 ## Konwencje i narzędzia
 
 Dokumenty przechodzą lint bez błędów. Konfiguracja znajduje się

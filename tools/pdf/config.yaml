@@ -1,0 +1,28 @@
+# Defaults for every generated PDF. A document's own YAML front matter
+# overrides any field here, so this file holds what is true for all of them.
+
+metadata:
+  author: 'Stowarzyszenie Zwykłe "Hackerspace Szczecin"'
+  subject: "Dokument ustrojowy Stowarzyszenia Zwykłego \"Hackerspace Szczecin\""
+  keywords:
+    - Hackerspace Szczecin
+    - HaSzcze
+    - stowarzyszenie zwykłe
+    - dokument ustrojowy
+  generator: haszcze-docs (WeasyPrint)
+  lang: pl
+
+style:
+  # Injected as CSS custom properties, so the typeface and size of every
+  # document can be changed here without touching style/document.css.
+  font-body: '"Caladea", "Liberation Serif", Georgia, serif'
+  font-size: 11pt
+
+pdf:
+  # PDF/A-3b embeds all fonts and makes the file self-contained, which is what
+  # archives and public offices expect for long-term storage.
+  variant: pdf/a-3b
+
+# Files skipped when the renderer is invoked without arguments.
+exclude:
+  - regulaminy/README.md
