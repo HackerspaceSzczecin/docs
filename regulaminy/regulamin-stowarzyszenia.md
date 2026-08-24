@@ -10,7 +10,7 @@ Stowarzyszenie zwykłe nosi nazwę "Hackerspace Szczecin" i może używać skró
 
 ### § 2
 
-Terenem działania Stowarzyszenia jest województwo zachodniopomorskie.
+Terenem działania Stowarzyszenia jest Rzeczpospolita Polska.
 
 ### § 3
 
@@ -180,7 +180,7 @@ Do kompetencji Zebrania Członków należy:
 
 ### § 22
 
-1. Stowarzyszenie jest reprezentowane przez Przedstawiciela Stowarzyszenia do spraw urzędowych wybieranego przez Zebranie Członków spośród członków Stowarzyszenia na trzyletnią kadencję.
+1. Stowarzyszenie jest reprezentowane przez Przedstawiciela Stowarzyszenia do spraw urzędowych wybieranego przez Zebranie Członków spośród członków Stowarzyszenia na roczną kadencję.
 2. Ta sama osoba może być wybierana na kolejne kadencje.
 3. Przedstawiciel Stowarzyszenia do spraw urzędowych może zostać odwołany przez Zebranie Członków w każdym czasie.
 4. Funkcja Przedstawiciela Stowarzyszenia do spraw urzędowych wygasa wskutek:
