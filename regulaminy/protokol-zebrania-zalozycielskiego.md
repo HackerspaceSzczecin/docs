@@ -64,19 +64,19 @@ Założyciele podjęli następującą uchwałę:
 ## Uchwała nr 2
 ## zebrania założycielskiego Stowarzyszenia Zwykłego „Hackerspace Szczecin”
 ## z dnia 23 sierpnia 2026 r.
-## w sprawie powołania Przedstawiciela Stowarzyszenia do spraw urzędowych
+## w sprawie wyboru Przedstawiciela Stowarzyszenia do spraw urzędowych
 
 ### § 1
-Na podstawie § 13 pkt 3 oraz § 14 ust. 2 Regulaminu Stowarzyszenia Zwykłego „Hackerspace Szczecin” założyciele powołują Pawła Abramowicza na Przedstawiciela Stowarzyszenia do spraw urzędowych na roczną kadencję rozpoczynającą się w dniu podjęcia niniejszej uchwały.
+Na podstawie § 19 pkt 3 oraz § 22 ust. 1 Regulaminu Stowarzyszenia Zwykłego „Hackerspace Szczecin” założyciele wybierają Pawła Abramowicza na Przedstawiciela Stowarzyszenia do spraw urzędowych, będącego władzą Stowarzyszenia wskazaną w § 15 pkt 2 Regulaminu, na trzyletnią kadencję rozpoczynającą się w dniu podjęcia niniejszej uchwały. Wybór ten nie jest powołaniem Reprezentanta do określonej sprawy, o którym mowa w § 23a Regulaminu.
 
 ### § 2
-1. Przedstawiciel Stowarzyszenia jest umocowany do prowadzenia spraw związanych z wpisem Stowarzyszenia do ewidencji stowarzyszeń zwykłych, w tym do:
+1. Przedstawiciel Stowarzyszenia do spraw urzędowych reprezentuje Stowarzyszenie na zewnątrz, prowadzi jego bieżące sprawy, zarządza jego majątkiem, wykonuje uchwały Zebrania Członków i zwołuje Zebrania Członków, zgodnie z Regulaminem Stowarzyszenia.
+2. W związku z wpisem Stowarzyszenia do ewidencji stowarzyszeń zwykłych Przedstawiciel Stowarzyszenia do spraw urzędowych jest w szczególności umocowany do:
    1. reprezentowania Stowarzyszenia przed organem ewidencyjnym;
    2. złożenia wniosku o wpis Stowarzyszenia do ewidencji stowarzyszeń zwykłych wraz z wymaganymi załącznikami;
    3. odbierania korespondencji dotyczącej postępowania ewidencyjnego;
    4. składania wyjaśnień oraz uzupełniania braków i dokumentów w postępowaniu ewidencyjnym.
-2. Po dokonaniu wpisu Przedstawiciel Stowarzyszenia prowadzi kontakty z organami administracji publicznej, organem ewidencyjnym oraz innymi instytucjami wyłącznie w granicach Regulaminu oraz uchwał Zebrania Członków.
-3. Umocowanie nie obejmuje zaciągania zobowiązań majątkowych w imieniu Stowarzyszenia.
+3. Dokonanie czynności przekraczającej zakres zwykłego zarządu wymaga uprzedniej zgody wszystkich członków Stowarzyszenia oraz udzielenia przez nich pełnomocnictwa zgodnie z § 24 Regulaminu Stowarzyszenia.
 
 ### § 3
 Uchwała wchodzi w życie z dniem podjęcia.
@@ -91,7 +91,7 @@ Wynik głosowania:
 - wstrzymujących się: 0 głosów.
 
 Paweł Abramowicz, jako osoba bezpośrednio zainteresowana, nie brał udziału
-w głosowaniu, zgodnie z § 17 Regulaminu.
+w głosowaniu, zgodnie z § 25 Regulaminu.
 
 Paweł Abramowicz wyraził zgodę na powołanie i przyjął powierzoną funkcję.
 

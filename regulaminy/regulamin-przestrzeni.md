@@ -17,7 +17,7 @@ Niniejszy Regulamin nie może być sprzeczny z *Regulaminem Stowarzyszenia Zwyk�
 ### § 2
 1. Niniejszy Regulamin wiąże wszystkie osoby korzystające z przestrzeni Stowarzyszenia.
 2. Osoba korzystająca z przestrzeni jest zobowiązana do przestrzegania niniejszego Regulaminu oraz *Regulaminu Stowarzyszenia Zwykłego* w zakresie, w jakim dotyczy on korzystania z przestrzeni.
-3. Zarząd może przyjąć szczegółowe zasady wykonawcze dotyczące bezpieczeństwa, używek, porządku, higieny, korzystania z narzędzi i innych zasad związanych z funkcjonowaniem przestrzeni, o ile nie są one sprzeczne z niniejszym Regulaminem ani z *Regulaminem Stowarzyszenia Zwykłego*.
+3. Zebranie Członków może przyjąć szczegółowe zasady wykonawcze dotyczące bezpieczeństwa, używek, porządku, higieny, korzystania z narzędzi i innych zasad związanych z funkcjonowaniem przestrzeni, o ile nie są one sprzeczne z niniejszym Regulaminem ani z *Regulaminem Stowarzyszenia Zwykłego*.
 
 ## Rozdział II – Dostęp do przestrzeni
 
@@ -31,7 +31,7 @@ Do przestrzeni Stowarzyszenia mogą zostać dopuszczone:
 
 ### § 4
 1. Osoba, która nie stosuje się do zasad korzystania z przestrzeni, może zostać poproszona o jej opuszczenie.
-2. Sposób wydawania, ewidencjonowania i unieważniania kluczy, kart oraz innych środków dostępu określa Zarząd.
+2. Sposób wydawania, ewidencjonowania i unieważniania kluczy, kart oraz innych środków dostępu określa Przedstawiciel Stowarzyszenia do spraw urzędowych.
 3. Osoba, której powierzono środek dostępu, jest odpowiedzialna za jego należyte przechowywanie i nieudostępnianie osobom nieuprawnionym.
 
 ## Rozdział III – Zasady współżycia i bezpieczeństwa
@@ -66,7 +66,7 @@ Osoba korzystająca z przestrzeni jest zobowiązana:
 
 ### § 8
 1. Osoba, której powierzono mienie Stowarzyszenia, odpowiada za jego należyte użytkowanie i zwrot.
-2. Uszkodzenie, zagubienie lub przywłaszczenie mienia należy niezwłocznie zgłosić Zarządowi.
+2. Uszkodzenie, zagubienie lub przywłaszczenie mienia należy niezwłocznie zgłosić Przedstawicielowi Stowarzyszenia do spraw urzędowych.
 
 ## Rozdział V – Narzędzia, maszyny i urządzenia
 
@@ -74,24 +74,24 @@ Osoba korzystająca z przestrzeni jest zobowiązana:
 1. Z narzędzi, maszyn i urządzeń korzysta się zgodnie z ich przeznaczeniem oraz zasadami bezpieczeństwa.
 2. Zabrania się korzystania z narzędzi lub urządzeń w sposób stwarzający zagrożenie dla ludzi lub mienia.
 3. Osoba nieznająca zasad bezpiecznej obsługi danego narzędzia, maszyny lub urządzenia nie powinna z niego korzystać bez instruktażu lub asysty osoby kompetentnej.
-4. Szczegółowe zasady obsługi poszczególnych urządzeń, w tym wymagane uprawnienia lub szkolenia, może określić Zarząd.
+4. Szczegółowe zasady obsługi poszczególnych urządzeń, w tym wymagane uprawnienia lub szkolenia, może określić Przedstawiciel Stowarzyszenia do spraw urzędowych.
 
 ## Rozdział VI – Rezerwacje i wydarzenia
 
 ### § 10
-1. Korzystanie z pomieszczeń, stanowisk pracy, narzędzi, maszyn i innych zasobów wymagających rezerwacji odbywa się za pomocą publicznie dostępnego systemu rezerwacji albo w inny sposób określony przez Zarząd.
+1. Korzystanie z pomieszczeń, stanowisk pracy, narzędzi, maszyn i innych zasobów wymagających rezerwacji odbywa się za pomocą publicznie dostępnego systemu rezerwacji albo w inny sposób określony przez Przedstawiciela Stowarzyszenia do spraw urzędowych.
 2. Rezerwacja powinna określać co najmniej termin, przewidywany sposób wykorzystania przestrzeni oraz, jeżeli jest to konieczne, osobę odpowiedzialną.
 3. Rezerwacja nie może być dokonywana w celu trwałego wyłączenia wspólnej przestrzeni z użytkowania.
 
 ### § 11
 1. Wydarzenia, warsztaty lub inne działania zajmujące znaczącą część przestrzeni powinny być odpowiednio wcześniej ogłoszone członkom.
 2. W miarę możliwości należy zapewnić dostęp do części przestrzeni również osobom, które nie uczestniczą w zarezerwowanym wydarzeniu.
-3. Szczegółowe zasady rezerwacji, w szczególności limity czasu, maksymalny okres rezerwacji, zasady odwoływania rezerwacji oraz sposób rozstrzygania kolizji rezerwacji, określa Zarząd, o ile nie są one sprzeczne z niniejszym Regulaminem.
+3. Szczegółowe zasady rezerwacji, w szczególności limity czasu, maksymalny okres rezerwacji, zasady odwoływania rezerwacji oraz sposób rozstrzygania kolizji rezerwacji, określa Przedstawiciel Stowarzyszenia do spraw urzędowych, o ile nie są one sprzeczne z niniejszym Regulaminem.
 
 ### § 12
 1. Wydarzenie organizowane przez członka Stowarzyszenia nie uzyskuje automatycznie pierwszeństwa przed prawem innych członków do korzystania z przestrzeni.
-2. Zarząd może odmówić rezerwacji lub ograniczyć zakres wydarzenia, jeżeli jego organizacja prowadziłaby do faktycznego pozbawienia pozostałych członków możliwości korzystania z przestrzeni albo stwarzała zagrożenie dla ludzi lub mienia.
-3. Spory dotyczące wykorzystania przestrzeni rozstrzyga Zarząd, z możliwością odwołania do Zebrania Członków.
+2. Przedstawiciel Stowarzyszenia do spraw urzędowych może odmówić rezerwacji lub ograniczyć zakres wydarzenia, jeżeli jego organizacja prowadziłaby do faktycznego pozbawienia pozostałych członków możliwości korzystania z przestrzeni albo stwarzała zagrożenie dla ludzi lub mienia.
+3. Spory dotyczące wykorzystania przestrzeni rozstrzyga Przedstawiciel Stowarzyszenia do spraw urzędowych, z możliwością odwołania do Zebrania Członków.
 
 ## Rozdział VII – Alkohol i substancje psychoaktywne
 
@@ -99,7 +99,7 @@ Osoba korzystająca z przestrzeni jest zobowiązana:
 1. Posiadanie lub używanie substancji zabronionych przez prawo jest niedopuszczalne.
 2. Używanie alkoholu lub innych substancji psychoaktywnych jest niedopuszczalne, jeżeli powoduje zagrożenie, zakłócenie działalności Stowarzyszenia albo naruszenie zasad obowiązujących w udostępnionej Stowarzyszeniu przestrzeni.
 3. Korzystanie z alkoholu podczas wydarzeń odbywa się z poszanowaniem zasad bezpieczeństwa, porządku oraz warunków wynikających z udostępnienia przestrzeni Stowarzyszeniu.
-4. Zarząd może określić dodatkowe zasady dotyczące alkoholu podczas konkretnych wydarzeń.
+4. Przedstawiciel Stowarzyszenia do spraw urzędowych może określić dodatkowe zasady dotyczące alkoholu podczas konkretnych wydarzeń.
 
 ## Rozdział VIII – Monitoring
 
@@ -124,7 +124,7 @@ Osoba korzystająca z przestrzeni jest zobowiązana:
    4. wezwaniem do opuszczenia przestrzeni;
    5. czasowym zakazem korzystania z przestrzeni.
 2. Środek powinien być adekwatny do charakteru naruszenia.
-3. Czasowy zakaz korzystania z przestrzeni nie zastępuje procedury dotyczącej zawieszenia lub wykluczenia członka, określonej w *Regulaminie Stowarzyszenia Zwykłego*.
+3. Czasowy zakaz korzystania z przestrzeni nie zastępuje procedury dotyczącej wykluczenia członka, określonej w *Regulaminie Stowarzyszenia Zwykłego*.
 4. Wykluczenie członka następuje zgodnie z *Regulaminem Stowarzyszenia Zwykłego*.
 
 ### § 16
@@ -133,7 +133,7 @@ Osoba korzystająca z przestrzeni jest zobowiązana:
 3. Niedopuszczalne jest samodzielne stosowanie przemocy lub innych środków wykraczających poza granice prawa.
 
 ### § 17
-1. Zarząd może podjąć decyzję o czasowym zakazie korzystania z przestrzeni przez osobę, która rażąco naruszyła zasady bezpieczeństwa lub porządku.
+1. Przedstawiciel Stowarzyszenia do spraw urzędowych może podjąć decyzję o czasowym zakazie korzystania z przestrzeni przez osobę, która rażąco naruszyła zasady bezpieczeństwa lub porządku.
 2. W przypadku członka Stowarzyszenia zakaz, o którym mowa w ust. 1, powinien być proporcjonalny do naruszenia.
 
 ## Rozdział X – Postanowienia końcowe
