@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#
+# Point git at the hooks tracked in this repository (.githooks). Run once after
+# cloning; `git config --unset core.hooksPath` turns them off again.
+
+set -euo pipefail
+
+REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+git -C "$REPO_ROOT" config core.hooksPath .githooks
+echo "==> Hooki włączone: pre-commit i pre-push uruchamiają bin/lint"

@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+#
+# Lint the whole repository before pushing. Nothing is modified here - a push
+# is the point where the tree should already be clean.
+#
+# Skip once with `git push --no-verify`.
+
+set -uo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+exec bin/lint

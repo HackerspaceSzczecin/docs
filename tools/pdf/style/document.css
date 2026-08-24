@@ -1,0 +1,206 @@
+/*
+ * Typography for the association's documents.
+ *
+ * This file is the single place where the printed look is defined. The
+ * renderer injects --font-body / --font-size from config.yaml, so switching
+ * the typeface for every document is a config change, not a CSS edit.
+ */
+
+:root {
+  --font-body: "Caladea", "Liberation Serif", Georgia, serif;
+  --font-size: 11pt;
+  --leading: 1.5;
+  --ink: #000;
+  --ink-soft: #444;
+  --rule: #999;
+}
+
+@page {
+  size: A4;
+  margin: 2.2cm 2.2cm 2cm 2.2cm;
+
+  @bottom-center {
+    content: "Strona " counter(page) " z " counter(pages);
+    font-family: var(--font-body);
+    font-size: 9pt;
+    color: var(--ink-soft);
+  }
+
+  /* Running header repeats the document title from page two onwards, so a
+     loose printout can always be traced back to its source document. */
+  @top-center {
+    content: string(doctitle);
+    font-family: var(--font-body);
+    font-size: 8.5pt;
+    color: var(--ink-soft);
+  }
+}
+
+/* The title page carries the title in full, so it needs no running header. */
+@page :first {
+  @top-center {
+    content: none;
+  }
+}
+
+html {
+  font-family: var(--font-body);
+  font-size: var(--font-size);
+  line-height: var(--leading);
+  color: var(--ink);
+  hyphens: auto;
+}
+
+body {
+  margin: 0;
+  text-align: justify;
+}
+
+/* ---------- headings ---------- */
+
+h1 {
+  string-set: doctitle content();
+  font-size: 1.45rem;
+  line-height: 1.3;
+  text-align: center;
+  margin: 0 0 1.6rem 0;
+  hyphens: none;
+}
+
+h2 {
+  font-size: 1.15rem;
+  margin: 1.6rem 0 .6rem 0;
+  hyphens: none;
+}
+
+h3 {
+  font-size: 1rem;
+  margin: 1.2rem 0 .4rem 0;
+  hyphens: none;
+}
+
+h4,
+h5,
+h6 {
+  font-size: 1rem;
+  margin: 1rem 0 .3rem 0;
+  hyphens: none;
+}
+
+/* A heading alone at the foot of a page is the classic print defect. */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  break-after: avoid;
+  break-inside: avoid;
+}
+
+/* ---------- body copy ---------- */
+
+p {
+  margin: 0 0 .6rem 0;
+  orphans: 2;
+  widows: 2;
+}
+
+/* Resolution preamble: the bold block right under "Uchwała nr N".
+   Centred, kept on one page, and never separated from its heading. */
+h2 + p > strong:only-child {
+  display: block;
+  text-align: center;
+  break-inside: avoid;
+}
+
+/* ---------- lists ---------- */
+
+ol,
+ul {
+  margin: 0 0 .6rem 0;
+  padding-left: 1.9rem;
+}
+
+li {
+  margin: .2rem 0;
+  padding-left: .25rem; /* breathing room between marker and text */
+  break-inside: avoid;
+}
+
+li::marker {
+  color: var(--ink);
+}
+
+/* Nested enumerations (§ 2 ust. 1 pkt 1) use lower-case letters so the two
+   levels stay distinguishable when a document is read aloud at a meeting. */
+ol ol {
+  list-style-type: lower-alpha;
+  margin-top: .2rem;
+}
+
+ol ol ol {
+  list-style-type: lower-roman;
+}
+
+/* ---------- signatures ---------- */
+
+/* A row of dots is a signature line: it must never open a page on its own,
+   detached from the name above it. */
+p.signature-line {
+  break-before: avoid;
+  margin: .2rem 0 1.4rem 0;
+  text-align: left;
+  hyphens: none;
+}
+
+/* ---------- tables ---------- */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: .8rem 0;
+  font-size: .95rem;
+}
+
+th,
+td {
+  border: 1px solid var(--rule);
+  padding: .35rem .5rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background: #f0f0f0;
+}
+
+/* ---------- misc ---------- */
+
+blockquote {
+  margin: .8rem 0 .8rem 1.5rem;
+  padding-left: .8rem;
+  border-left: 2px solid var(--rule);
+  color: var(--ink-soft);
+}
+
+code {
+  font-family: "DejaVu Sans Mono", monospace;
+  font-size: .9em;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 1.4rem 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Written into the HTML by `<!-- pagebreak -->` in the Markdown source. */
+.pagebreak {
+  break-after: page;
+}

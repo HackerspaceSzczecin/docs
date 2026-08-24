@@ -1,0 +1,5 @@
+weasyprint==69.0
+markdown-it-py==4.2.0
+PyYAML==6.0.3
+pypdf==6.16.2
+pypdfium2==5.13.0

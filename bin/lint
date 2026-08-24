@@ -1,0 +1,84 @@
+#!/usr/bin/env bash
+#
+# Lint and format the repository.
+#
+#   bin/lint                 check everything
+#   bin/lint --fix           check everything and fix what can be fixed
+#   bin/lint a.md b.py       check only the given files
+#   bin/lint --fix a.md      fix only the given files
+#
+# Markdown is handled by markdownlint-cli2 (config: .markdownlint.jsonc),
+# Python by ruff (config: ruff.toml). Both are pinned and fetched on demand -
+# npx and uvx keep them in their own caches, so nothing is installed globally.
+
+set -uo pipefail
+
+MARKDOWNLINT="markdownlint-cli2@0.23.2"
+RUFF="ruff@0.16.4"
+
+REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$REPO_ROOT"
+
+fix=0
+files=()
+for arg in "$@"; do
+  if [[ "$arg" == "--fix" ]]; then
+    fix=1
+  else
+    files+=("$arg")
+  fi
+done
+
+# Split the explicit file list by language; with no list, lint the whole tree.
+md_targets=()
+py_targets=()
+if [[ ${#files[@]} -eq 0 ]]; then
+  md_targets=("**/*.md")
+  py_targets=("tools")
+else
+  for f in "${files[@]}"; do
+    case "$f" in
+      *.md) md_targets+=("$f") ;;
+      *.py) py_targets+=("$f") ;;
+    esac
+  done
+fi
+
+status=0
+
+run_or_skip() {
+  # Missing toolchain is a warning, not a failure - the check still runs in CI
+  # and on every machine that has node or uv.
+  local tool="$1" hint="$2"
+  if ! command -v "$tool" >/dev/null 2>&1; then
+    echo "==> Pomijam: brak '$tool' ($hint)" >&2
+    return 1
+  fi
+  return 0
+}
+
+if [[ ${#md_targets[@]} -gt 0 ]] && run_or_skip npx "Markdown nie został sprawdzony"; then
+  echo "==> markdownlint"
+  md_args=()
+  [[ $fix -eq 1 ]] && md_args+=("--fix")
+  npx --yes "$MARKDOWNLINT" "${md_args[@]}" "${md_targets[@]}" || status=1
+fi
+
+if [[ ${#py_targets[@]} -gt 0 ]] && run_or_skip uvx "Python nie został sprawdzony"; then
+  echo "==> ruff format"
+  if [[ $fix -eq 1 ]]; then
+    uvx "$RUFF" format "${py_targets[@]}" || status=1
+  else
+    uvx "$RUFF" format --check "${py_targets[@]}" || status=1
+  fi
+
+  echo "==> ruff check"
+  ruff_args=()
+  [[ $fix -eq 1 ]] && ruff_args+=("--fix")
+  uvx "$RUFF" check "${ruff_args[@]}" "${py_targets[@]}" || status=1
+fi
+
+if [[ $status -ne 0 ]]; then
+  echo "==> Lint zakończył się błędem" >&2
+fi
+exit $status

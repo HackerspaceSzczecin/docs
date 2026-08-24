@@ -1,24 +1,21 @@
-# Protokół zebrania założycielskiego
-# Stowarzyszenia Zwykłego „Hackerspace Szczecin”
+# Protokół zebrania założycielskiego Stowarzyszenia Zwykłego "Hackerspace Szczecin"
 
-W dniu 23 sierpnia 2026 r. o godz. 13:00 przy ulicy Smolańska 4/213 ("Rakieciarnia") w Szczecinie odbyło się zebranie założycielskie Stowarzyszenia Zwykłego „Hackerspace Szczecin”, używającego skrótu „HaSzcze”, zwanego dalej „Stowarzyszeniem”.
+W dniu 23 sierpnia 2026 r. o godz. 13:00 przy ulicy Smolańska 4/213 ("Rakieciarnia") w Szczecinie odbyło się zebranie założycielskie Stowarzyszenia Zwykłego "Hackerspace Szczecin", używającego skrótu "HaSzcze", zwanego dalej "Stowarzyszeniem".
 
 W zebraniu uczestniczyli założyciele wymienieni na liście założycieli stanowiącej załącznik nr 1 do niniejszego protokołu.
 
-Zebrani wybrali:
-
-1. Oskar Jaskólski – na przewodniczącego zebrania;
-2. Milena Michalska – na protokolanta.
+Zebrani jednogłośnie wybrali Oskara Jaskólskiego na przewodniczącego zebrania oraz powierzyli mu pełnienie funkcji protokolanta.
 
 Przewodniczący stwierdził, że w zebraniu uczestniczą wszyscy założyciele Stowarzyszenia i że zebranie jest zdolne do podejmowania uchwał.
 
 ## Porządek zebrania
 
 1. Otwarcie zebrania założycielskiego.
-2. Podjęcie decyzji o utworzeniu Stowarzyszenia Zwykłego „Hackerspace Szczecin”.
+2. Podjęcie uchwały w sprawie powołania Stowarzyszenia Zwykłego "Hackerspace Szczecin".
 3. Przedstawienie i przyjęcie Regulaminu Stowarzyszenia.
-4. Wybór Przedstawiciela Stowarzyszenia do spraw urzędowych.
-5. Zamknięcie zebrania.
+4. Podjęcie uchwały w sprawie wskazania adresu siedziby Stowarzyszenia.
+5. Wybór Przedstawiciela Stowarzyszenia do spraw urzędowych.
+6. Zamknięcie zebrania.
 
 Porządek zebrania został przyjęty jednogłośnie.
 
@@ -26,7 +23,23 @@ Porządek zebrania został przyjęty jednogłośnie.
 
 ### 1. Utworzenie Stowarzyszenia
 
-Założyciele jednogłośnie postanowili utworzyć Stowarzyszenie Zwykłe pod nazwą „Hackerspace Szczecin”, używające skrótu „HaSzcze”, z siedzibą w Szczecinie.
+Założyciele podjęli następującą uchwałę:
+
+## Uchwała nr 1
+
+**zebrania założycielskiego Stowarzyszenia Zwykłego "Hackerspace Szczecin"\
+z dnia 23 sierpnia 2026 r.\
+w sprawie powołania Stowarzyszenia**
+
+### § 1
+
+Założyciele powołują Stowarzyszenie Zwykłe pod nazwą "Hackerspace Szczecin", używające skrótu "HaSzcze", z siedzibą w Szczecinie.
+
+### § 2
+
+Uchwała wchodzi w życie z dniem podjęcia.
+
+Uchwała została podjęta jednogłośnie.
 
 Wynik głosowania:
 
@@ -38,15 +51,18 @@ Wynik głosowania:
 
 Po zapoznaniu się z projektem Regulaminu założyciele podjęli następującą uchwałę:
 
-## Uchwała nr 1
-## zebrania założycielskiego Stowarzyszenia Zwykłego „Hackerspace Szczecin”
-## z dnia 23 sierpnia 2026 r.
-## w sprawie przyjęcia Regulaminu Stowarzyszenia
+## Uchwała nr 2
+
+**zebrania założycielskiego Stowarzyszenia Zwykłego "Hackerspace Szczecin"\
+z dnia 23 sierpnia 2026 r.\
+w sprawie przyjęcia Regulaminu Stowarzyszenia**
 
 ### § 1
-Założyciele przyjmują Regulamin Stowarzyszenia Zwykłego „Hackerspace Szczecin” w brzmieniu stanowiącym załącznik nr 2 do protokołu zebrania założycielskiego.
+
+Założyciele przyjmują Regulamin Stowarzyszenia Zwykłego "Hackerspace Szczecin" w brzmieniu stanowiącym załącznik nr 2 do protokołu zebrania założycielskiego.
 
 ### § 2
+
 Uchwała wchodzi w życie z dniem podjęcia.
 
 Uchwała została podjęta jednogłośnie.
@@ -57,45 +73,74 @@ Wynik głosowania:
 - przeciw: 0 głosów;
 - wstrzymujących się: 0 głosów.
 
-### 3. Wybór Przedstawiciela Stowarzyszenia do spraw urzędowych
+### 3. Wskazanie adresu siedziby Stowarzyszenia
 
 Założyciele podjęli następującą uchwałę:
 
-## Uchwała nr 2
-## zebrania założycielskiego Stowarzyszenia Zwykłego „Hackerspace Szczecin”
-## z dnia 23 sierpnia 2026 r.
-## w sprawie wyboru Przedstawiciela Stowarzyszenia do spraw urzędowych
+## Uchwała nr 3
+
+**zebrania założycielskiego Stowarzyszenia Zwykłego "Hackerspace Szczecin"\
+z dnia 23 sierpnia 2026 r.\
+w sprawie wskazania adresu siedziby Stowarzyszenia**
 
 ### § 1
-Na podstawie § 19 pkt 3 oraz § 22 ust. 1 Regulaminu Stowarzyszenia Zwykłego „Hackerspace Szczecin” założyciele wybierają Pawła Abramowicza na Przedstawiciela Stowarzyszenia do spraw urzędowych, będącego władzą Stowarzyszenia wskazaną w § 15 pkt 2 Regulaminu, na trzyletnią kadencję rozpoczynającą się w dniu podjęcia niniejszej uchwały. Wybór ten nie jest powołaniem Reprezentanta do określonej sprawy, o którym mowa w § 23a Regulaminu.
+
+Wskazuje się adres siedziby Stowarzyszenia Zwykłego "Hackerspace Szczecin": ul. Limby 9-11/G3, Szczecin.
 
 ### § 2
-1. Przedstawiciel Stowarzyszenia do spraw urzędowych reprezentuje Stowarzyszenie na zewnątrz, prowadzi jego bieżące sprawy, zarządza jego majątkiem, wykonuje uchwały Zebrania Członków i zwołuje Zebrania Członków, zgodnie z Regulaminem Stowarzyszenia.
-2. W związku z wpisem Stowarzyszenia do ewidencji stowarzyszeń zwykłych Przedstawiciel Stowarzyszenia do spraw urzędowych jest w szczególności umocowany do:
+
+Uchwała wchodzi w życie z dniem podjęcia.
+
+Uchwała została podjęta jednogłośnie.
+
+Wynik głosowania:
+
+- za: 12 głosów;
+- przeciw: 0 głosów;
+- wstrzymujących się: 0 głosów.
+
+Paweł Abramowicz, dysponujący lokalem przy ul. Limby 9-11/G3 w Szczecinie, oświadczył, że wyraża zgodę na korzystanie z tego lokalu jako adresu siedziby Stowarzyszenia.
+
+### 4. Wybór Przedstawiciela Stowarzyszenia do spraw urzędowych
+
+Założyciele podjęli następującą uchwałę:
+
+## Uchwała nr 4
+
+**zebrania założycielskiego Stowarzyszenia Zwykłego "Hackerspace Szczecin"\
+z dnia 23 sierpnia 2026 r.\
+w sprawie powołania Przedstawiciela Stowarzyszenia do spraw urzędowych**
+
+### § 1
+
+Na podstawie § 13 pkt 3 oraz § 14 ust. 2 Regulaminu Stowarzyszenia Zwykłego "Hackerspace Szczecin" założyciele powołują Pawła Abramowicza na Przedstawiciela Stowarzyszenia do spraw urzędowych na roczną kadencję rozpoczynającą się w dniu podjęcia niniejszej uchwały.
+
+### § 2
+
+1. Przedstawiciel Stowarzyszenia jest umocowany do prowadzenia spraw związanych z wpisem Stowarzyszenia do ewidencji stowarzyszeń zwykłych, w tym do:
    1. reprezentowania Stowarzyszenia przed organem ewidencyjnym;
    2. złożenia wniosku o wpis Stowarzyszenia do ewidencji stowarzyszeń zwykłych wraz z wymaganymi załącznikami;
    3. odbierania korespondencji dotyczącej postępowania ewidencyjnego;
    4. składania wyjaśnień oraz uzupełniania braków i dokumentów w postępowaniu ewidencyjnym.
-3. Dokonanie czynności przekraczającej zakres zwykłego zarządu wymaga uprzedniej zgody wszystkich członków Stowarzyszenia oraz udzielenia przez nich pełnomocnictwa zgodnie z § 24 Regulaminu Stowarzyszenia.
+2. Dokonanie czynności przekraczającej zakres zwykłego zarządu wymaga uprzedniej zgody wszystkich członków Stowarzyszenia oraz udzielenia przez nich pełnomocnictwa zgodnie z § 24 Regulaminu Stowarzyszenia.
 
 ### § 3
+
 Uchwała wchodzi w życie z dniem podjęcia.
 
-Uchwała została podjęta jednogłośnie przez osoby uprawnione do głosowania.
+Uchwała została podjęta wymaganą większością głosów.
 
 Wynik głosowania:
 
-- uprawnionych do głosowania: 11 osób;
 - za: 11 głosów;
 - przeciw: 0 głosów;
-- wstrzymujących się: 0 głosów.
+- wstrzymujących się: 1 głos.
 
-Paweł Abramowicz, jako osoba bezpośrednio zainteresowana, nie brał udziału
-w głosowaniu, zgodnie z § 25 Regulaminu.
+Paweł Abramowicz, jako osoba bezpośrednio zainteresowana, wstrzymał się od głosu.
 
 Paweł Abramowicz wyraził zgodę na powołanie i przyjął powierzoną funkcję.
 
-### 4. Zamknięcie zebrania
+### 5. Zamknięcie zebrania
 
 Wobec wyczerpania porządku obrad przewodniczący zamknął zebranie założycielskie.
 
@@ -103,19 +148,15 @@ Protokół odczytano i przyjęto bez zastrzeżeń.
 
 ## Podpisy
 
-Przewodniczący zebrania:
+Przewodniczący zebrania i protokolant - Oskar Jaskólski:
 
 ……………………………………………………………………………
 
-Protokolant:
-
-……………………………………………………………………………
-
-Przedstawiciel Stowarzyszenia do spraw urzędowych – Paweł Abramowicz:
+Przedstawiciel Stowarzyszenia do spraw urzędowych - Paweł Abramowicz:
 
 ……………………………………………………………………………
 
 ## Załączniki
 
-1. Lista założycieli Stowarzyszenia Zwykłego „Hackerspace Szczecin”.
-2. Regulamin Stowarzyszenia Zwykłego „Hackerspace Szczecin”.
+1. Lista założycieli Stowarzyszenia Zwykłego "Hackerspace Szczecin".
+2. Regulamin Stowarzyszenia Zwykłego "Hackerspace Szczecin".

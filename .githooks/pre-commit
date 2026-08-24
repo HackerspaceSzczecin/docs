@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+#
+# Format and lint the staged files before the commit is created.
+#
+# Whatever the formatters can fix is fixed and re-staged; anything left is
+# reported and blocks the commit. Skip once with `git commit --no-verify`.
+
+set -uo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+# Only added/copied/modified/renamed paths - deletions have nothing to lint.
+mapfile -t staged < <(git diff --cached --name-only --diff-filter=ACMR -z \
+  | tr '\0' '\n' | grep -E '\.(md|py)$' || true)
+
+if [[ ${#staged[@]} -eq 0 ]]; then
+  exit 0
+fi
+
+# A file that is staged only partially must not be silently rewritten as a
+# whole, so those are checked without --fix.
+mapfile -t unstaged < <(git diff --name-only -z \
+  | tr '\0' '\n' | grep -E '\.(md|py)$' || true)
+
+fixable=()
+checkonly=()
+for f in "${staged[@]}"; do
+  if printf '%s\n' "${unstaged[@]}" | grep -Fxq -- "$f"; then
+    checkonly+=("$f")
+  else
+    fixable+=("$f")
+  fi
+done
+
+status=0
+
+if [[ ${#fixable[@]} -gt 0 ]]; then
+  bin/lint --fix "${fixable[@]}" || status=1
+  git add -- "${fixable[@]}"
+fi
+
+if [[ ${#checkonly[@]} -gt 0 ]]; then
+  echo "==> Pliki z niezaindeksowanymi zmianami - tylko sprawdzenie, bez poprawek:"
+  printf '    %s\n' "${checkonly[@]}"
+  bin/lint "${checkonly[@]}" || status=1
+fi
+
+exit $status

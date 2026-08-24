@@ -1,0 +1,22 @@
+// Konfiguracja markdownlint dla dokumentów statutowych (proza po polsku).
+// Czytana zarówno przez rozszerzenie VS Code (DavidAnson.vscode-markdownlint),
+// jak i przez `npx markdownlint-cli2 "**/*.md"`.
+{
+  // MD013 (line-length): dokumenty to proza, akapit = jedna linia.
+  // Twarde zawijanie na 80 znaków rozwaliłoby diffy i utrudniło edycję
+  // tekstu prawnego. Renderowanie jest identyczne, więc wyłączamy regułę.
+  "MD013": false,
+
+  // MD036 (no-emphasis-as-heading): pierwsza linia dokumentu to metryczka
+  // ("**Załącznik do uchwały nr … z dnia …**"), a nie ukryty nagłówek.
+  // Nagłówek nie może się tam znaleźć, bo rozbiłby strukturę i spis treści
+  // w PDF-ie, a pogrubienie jest tu świadomym elementem składu.
+  "MD036": false,
+
+  // MD024 (no-duplicate-heading): "§ 1", "§ 2" itd. powtarzają się celowo -
+  // każda uchwała ma własną numerację paragrafów. Duplikaty są dozwolone,
+  // dopóki nie występują w obrębie tego samego nagłówka nadrzędnego.
+  "MD024": {
+    "siblings_only": true
+  }
+}
