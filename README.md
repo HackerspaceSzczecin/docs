@@ -11,7 +11,7 @@ przed przyjęciem uchwałą.
 | --- | --- |
 | [Regulamin Stowarzyszenia Zwykłego](regulaminy/regulamin-stowarzyszenia.md) | Nazwa, cele, teren działania, członkostwo, władze, reprezentacja, posiedzenia i głosowania, majątek, utrata członkostwa, zmiana regulaminu i rozwiązanie. |
 | [Regulamin korzystania z przestrzeni](regulaminy/regulamin-przestrzeni.md) | Zasady współżycia, dostęp, bezpieczeństwo, porządek, narzędzia i maszyny, rezerwacje, wydarzenia, alkohol, monitoring, reagowanie na naruszenia. |
-| [Protokół zebrania założycielskiego](regulaminy/protokol-zebrania-zalozycielskiego.md) | Utworzenie Stowarzyszenia, uchwały nr 1-3 (regulamin, adres siedziby, Przedstawiciel do spraw urzędowych) wraz z wynikami głosowań. |
+| [Protokół zebrania założycielskiego](regulaminy/protokol-zebrania-zalozycielskiego.md) | Utworzenie Stowarzyszenia, uchwały nr 1-4 (powołanie Stowarzyszenia, regulamin, adres siedziby, Przedstawiciel do spraw urzędowych) wraz z wynikami głosowań. |
 
 Spis dokumentów wraz z krótkim opisem znajduje się także w
 [regulaminy/README.md](regulaminy/README.md).

@@ -11,7 +11,7 @@ Przewodniczący stwierdził, że w zebraniu uczestniczą wszyscy założyciele S
 ## Porządek zebrania
 
 1. Otwarcie zebrania założycielskiego.
-2. Podjęcie decyzji o utworzeniu Stowarzyszenia Zwykłego "Hackerspace Szczecin".
+2. Podjęcie uchwały w sprawie powołania Stowarzyszenia Zwykłego "Hackerspace Szczecin".
 3. Przedstawienie i przyjęcie Regulaminu Stowarzyszenia.
 4. Podjęcie uchwały w sprawie wskazania adresu siedziby Stowarzyszenia.
 5. Wybór Przedstawiciela Stowarzyszenia do spraw urzędowych.
@@ -23,7 +23,23 @@ Porządek zebrania został przyjęty jednogłośnie.
 
 ### 1. Utworzenie Stowarzyszenia
 
-Założyciele jednogłośnie postanowili utworzyć Stowarzyszenie Zwykłe pod nazwą "Hackerspace Szczecin", używające skrótu "HaSzcze", z siedzibą w Szczecinie.
+Założyciele podjęli następującą uchwałę:
+
+## Uchwała nr 1
+
+**zebrania założycielskiego Stowarzyszenia Zwykłego "Hackerspace Szczecin"\
+z dnia 23 sierpnia 2026 r.\
+w sprawie powołania Stowarzyszenia**
+
+### § 1
+
+Założyciele powołują Stowarzyszenie Zwykłe pod nazwą "Hackerspace Szczecin", używające skrótu "HaSzcze", z siedzibą w Szczecinie.
+
+### § 2
+
+Uchwała wchodzi w życie z dniem podjęcia.
+
+Uchwała została podjęta jednogłośnie.
 
 Wynik głosowania:
 
@@ -35,7 +51,7 @@ Wynik głosowania:
 
 Po zapoznaniu się z projektem Regulaminu założyciele podjęli następującą uchwałę:
 
-## Uchwała nr 1
+## Uchwała nr 2
 
 **zebrania założycielskiego Stowarzyszenia Zwykłego "Hackerspace Szczecin"\
 z dnia 23 sierpnia 2026 r.\
@@ -61,7 +77,7 @@ Wynik głosowania:
 
 Założyciele podjęli następującą uchwałę:
 
-## Uchwała nr 2
+## Uchwała nr 3
 
 **zebrania założycielskiego Stowarzyszenia Zwykłego "Hackerspace Szczecin"\
 z dnia 23 sierpnia 2026 r.\
@@ -89,7 +105,7 @@ Paweł Abramowicz, dysponujący lokalem przy ul. Limby 9-11/G3 w Szczecinie, oś
 
 Założyciele podjęli następującą uchwałę:
 
-## Uchwała nr 3
+## Uchwała nr 4
 
 **zebrania założycielskiego Stowarzyszenia Zwykłego "Hackerspace Szczecin"\
 z dnia 23 sierpnia 2026 r.\
@@ -112,17 +128,15 @@ Na podstawie § 13 pkt 3 oraz § 14 ust. 2 Regulaminu Stowarzyszenia Zwykłego "
 
 Uchwała wchodzi w życie z dniem podjęcia.
 
-Uchwała została podjęta jednogłośnie przez osoby uprawnione do głosowania.
+Uchwała została podjęta wymaganą większością głosów.
 
 Wynik głosowania:
 
-- uprawnionych do głosowania: 11 osób;
 - za: 11 głosów;
 - przeciw: 0 głosów;
-- wstrzymujących się: 0 głosów.
+- wstrzymujących się: 1 głos.
 
-Paweł Abramowicz, jako osoba bezpośrednio zainteresowana, nie brał udziału
-w głosowaniu, zgodnie z § 25 Regulaminu.
+Paweł Abramowicz, jako osoba bezpośrednio zainteresowana, wstrzymał się od głosu.
 
 Paweł Abramowicz wyraził zgodę na powołanie i przyjął powierzoną funkcję.
 
