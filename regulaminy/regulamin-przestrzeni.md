@@ -16,8 +16,10 @@
 2. Uprawniony użytkownik może wprowadzić osobę trzecią, ale odpowiada za poinformowanie jej o zasadach bezpieczeństwa i jej zachowanie w Przestrzeni w zakresie dopuszczalnym przez prawo.
 3. Przestrzeń należy pozostawiać zamkniętą i zabezpieczoną. Osoby nieuprawnione nie mogą z niej korzystać.
 4. Stowarzyszenie może w każdym czasie ograniczyć lub cofnąć uprawnienie do korzystania z Przestrzeni. Po cofnięciu uprawnienia należy niezwłocznie zwrócić klucze i inne środki dostępu.
-5. Użytkownik jest obowiązany utrzymywać porządek i podstawową higienę w Przestrzeni. Po zakończeniu pracy należy uporządkować stanowisko, usunąć odpady, pozostawić pomieszczenia w stanie umożliwiającym dalsze korzystanie przez inne osoby oraz zadbać o właściwe przechowywanie narzędzi, materiałów i sprzętu.
-6. Zabrania się prowadzenia jakiejkolwiek działalności gospodarczej, handlu, sprzedaży, promocji, świadczenia usług lub innej formy komercyjnej na terenie Przestrzeni bez pisemnej zgody Stowarzyszenia. W szczególności zabrania się organizowania z tego tytułu zbiórek, sprzedaży lub usług w ramach korzystania z Przestrzeni.
+5. Użytkownik jest obowiązany utrzymywać porządek i podstawową higienę w Przestrzeni. Po zakończeniu pracy należy uporządkować stanowisko, odłożyć narzędzia, materiały i sprzęt na właściwe miejsce, usunąć odpady oraz pozostawić pomieszczenia w stanie umożliwiającym dalsze korzystanie przez inne osoby.
+6. Zabrania się pozostawiania w Przestrzeni żywności, napojów, artykułów łatwo psujących się oraz innych materiałów wymagających przechowywania w warunkach chłodniczych. Przestrzeń nie jest wyposażona w urządzenia do przechowywania żywności, a wszelkie pozostawione lub nieoznaczone artykuły spożywcze mogą zostać usunięte przez Stowarzyszenie.
+7. Przestrzeń nie jest miejscem noclegowym, przebywania w celach odpoczynkowych dłużej niż wynikają z planowanego korzystania z Przestrzeni, ani miejscem trwałego przechowywania prywatnych rzeczy. Zabrania się korzystania z Przestrzeni do spania, nocowania lub przebywania w sposób uniemożliwiający jej normalne użytkowanie przez innych.
+8. Zabrania się prowadzenia jakiejkolwiek działalności gospodarczej, handlu, sprzedaży, promocji, świadczenia usług lub innej formy komercyjnej na terenie Przestrzeni bez pisemnej zgody Stowarzyszenia. W szczególności zabrania się organizowania z tego tytułu zbiórek, sprzedaży lub usług w ramach korzystania z Przestrzeni.
 
 ---
 
