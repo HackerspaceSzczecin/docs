@@ -6,6 +6,7 @@
 2. Przestrzeń nie jest ogólnodostępna. Korzystać z niej mogą wyłącznie osoby upoważnione przez Stowarzyszenie.
 3. Korzystanie z Przestrzeni oznacza akceptację Regulaminu. Każda osoba uzyskująca dostęp powinna zapoznać się z nim przed rozpoczęciem korzystania.
 4. Użytkownik przyjmuje do wiadomości, że Przestrzeń była wcześniej wykorzystywana do celów laboratoryjnych lub technicznych i może zawierać niezinwentaryzowane instalacje, przewody, uszkodzenia posadzki, materiały lub substancje o nieznanym charakterze.
+5. Osoby niepełnoletnie mogą korzystać z Przestrzeni wyłącznie pod opieką opiekuna prawnego lub innej osoby uprawnionej do sprawowania opieki, na pełną odpowiedzialność tego opiekuna. Opiekun odpowiada za zapewnienie bezpieczeństwa, przestrzeganie Regulaminu oraz właściwy nadzór nad osobą niepełnoletnią na terenie Przestrzeni.
 
 ---
 
@@ -15,6 +16,8 @@
 2. Uprawniony użytkownik może wprowadzić osobę trzecią, ale odpowiada za poinformowanie jej o zasadach bezpieczeństwa i jej zachowanie w Przestrzeni w zakresie dopuszczalnym przez prawo.
 3. Przestrzeń należy pozostawiać zamkniętą i zabezpieczoną. Osoby nieuprawnione nie mogą z niej korzystać.
 4. Stowarzyszenie może w każdym czasie ograniczyć lub cofnąć uprawnienie do korzystania z Przestrzeni. Po cofnięciu uprawnienia należy niezwłocznie zwrócić klucze i inne środki dostępu.
+5. Użytkownik jest obowiązany utrzymywać porządek i podstawową higienę w Przestrzeni. Po zakończeniu pracy należy uporządkować stanowisko, usunąć odpady, pozostawić pomieszczenia w stanie umożliwiającym dalsze korzystanie przez inne osoby oraz zadbać o właściwe przechowywanie narzędzi, materiałów i sprzętu.
+6. Zabrania się prowadzenia jakiejkolwiek działalności gospodarczej, handlu, sprzedaży, promocji, świadczenia usług lub innej formy komercyjnej na terenie Przestrzeni bez pisemnej zgody Stowarzyszenia. W szczególności zabrania się organizowania z tego tytułu zbiórek, sprzedaży lub usług w ramach korzystania z Przestrzeni.
 
 ---
 
@@ -43,6 +46,7 @@
 3. Jeżeli w ciągu 7 dni od zgłoszenia właściciel nie wypowie się w sprawie rzeczy ani nie ustali sposobu jej zabezpieczenia lub usunięcia, rzecz może zostać wyrzucona albo zagospodarowana przez Stowarzyszenie.
 4. Osoba, która pracuje nad projektem dłużej niż jednorazowo, może mieć wyznaczone i oznaczone miejsce przechowywania. Z rzeczy znajdujących się w takim miejscu nie wolno niczego wyrzucać ani przenosić bez zgody osoby prowadzącej projekt.
 5. Właściciele odpowiadają za swoje rzeczy i mają obowiązek korzystać z nich w sposób bezpieczny. Zasady tego paragrafu nie dotyczą materiałów lub urządzeń stwarzających bezpośrednie zagrożenie, które należy zabezpieczyć niezwłocznie.
+6. Narzędzia z Przestrzeni mogą być wypożyczane wyłącznie za uprzednią konsultacją i pisemnym lub elektronicznym zatwierdzeniem przez Stowarzyszenie albo właściciela danego narzędzia. Wypożyczenie bez wyraźnej zgody jest zabronione. Właściciel lub Stowarzyszenie może ustalić warunki wypożyczenia, termin zwrotu, sposób zabezpieczenia i odpowiedzialność za szkody. Każdy wypożyczający odpowiada za stan narzędzia w czasie wypożyczenia i zobowiązuje się do zwrotu w niepogorszonym stanie.
 
 ---
 
