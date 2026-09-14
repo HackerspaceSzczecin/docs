@@ -15,10 +15,11 @@
 1. Osoba posiadająca klucz lub inny środek dostępu nie może przekazywać go osobom trzecim, wykonywać jego kopii ani udostępniać danych dostępowych.
 2. Uprawniony użytkownik może wprowadzić osobę trzecią, ale odpowiada za poinformowanie jej o zasadach bezpieczeństwa i jej zachowanie w Przestrzeni w zakresie dopuszczalnym przez prawo.
 3. Przestrzeń należy pozostawiać zamkniętą i zabezpieczoną. Osoby nieuprawnione nie mogą z niej korzystać.
-4. Stowarzyszenie może w każdym czasie ograniczyć lub cofnąć uprawnienie do korzystania z Przestrzeni. Po cofnięciu uprawnienia należy niezwłocznie zwrócić klucze i inne środki dostępu.
+3.a Osoby nie bedace czlonkami nie moga korzysac bez nadzoru
+4. Stowarzyszenie może w każdym czasie ograniczyć lub cofnąć uprawnienie do korzystania z Przestrzeni. Po cofnięciu uprawnienia należy niezwłocznie zwrócić klucze i inne środki dostępu. //refactor na czlonek pozbawiony
 5. Użytkownik jest obowiązany utrzymywać porządek i podstawową higienę w Przestrzeni. Po zakończeniu pracy należy uporządkować stanowisko, odłożyć narzędzia, materiały i sprzęt na właściwe miejsce, usunąć odpady oraz pozostawić pomieszczenia w stanie umożliwiającym dalsze korzystanie przez inne osoby.
 6. Zabrania się pozostawiania w Przestrzeni żywności, napojów, artykułów łatwo psujących się oraz innych materiałów wymagających przechowywania w warunkach chłodniczych. Przestrzeń nie jest wyposażona w urządzenia do przechowywania żywności, a wszelkie pozostawione lub nieoznaczone artykuły spożywcze mogą zostać usunięte przez Stowarzyszenie.
-7. Przestrzeń nie jest miejscem noclegowym, przebywania w celach odpoczynkowych dłużej niż wynikają z planowanego korzystania z Przestrzeni, ani miejscem trwałego przechowywania prywatnych rzeczy. Zabrania się korzystania z Przestrzeni do spania, nocowania lub przebywania w sposób uniemożliwiający jej normalne użytkowanie przez innych.
+7. Przestrzeń nie jest miejscem noclegowym, ani miejscem trwałego przechowywania prywatnych rzeczy. Zabrania się korzystania z Przestrzeni do spania, nocowania lub przebywania w sposób uniemożliwiający jej normalne użytkowanie przez innych.
 8. Zabrania się prowadzenia jakiejkolwiek działalności gospodarczej, handlu, sprzedaży, promocji, świadczenia usług lub innej formy komercyjnej na terenie Przestrzeni bez pisemnej zgody Stowarzyszenia. W szczególności zabrania się organizowania z tego tytułu zbiórek, sprzedaży lub usług w ramach korzystania z Przestrzeni.
 
 ---
@@ -26,15 +27,17 @@
 ## § 3. Bezpieczeństwo i wykonywanie prac
 
 1. Użytkownik ma obowiązek zachowywać szczególną ostrożność, stosować się do oznaczeń i poleceń osób odpowiedzialnych za Przestrzeń oraz nie podejmować działań, których ryzyka nie rozumie lub których nie potrafi wykonać bezpiecznie.
-2. Zabrania się ingerowania w instalacje, konstrukcję, posadzkę, urządzenia i elementy techniczne, których stan lub przeznaczenie nie zostały potwierdzone, w tym samodzielnego wykonywania prac elektrycznych, budowlanych, remontowych i instalacyjnych.
+2. Zabrania się ingerowania w instalacje, konstrukcję, posadzkę, urządzenia i elementy techniczne, których stan lub przeznaczenie nie zostały potwierdzone, w tym samodzielnego wykonywania prac elektrycznych, budowlanych, remontowych i instalacyjnych. //refactor na uzywanie niebezpiecznych narzedzi po przeszkoleniu.
 3. Prace wymagające zgody, kwalifikacji, uprawnień, badań lub zezwoleń mogą być wykonywane wyłącznie po uzyskaniu zgody członka Stowarzyszenia i przez osoby spełniające odpowiednie wymagania. Zabrania się wykonywania ich metodą prób i błędów.
-4. Zabrania się używania ognia, urządzeń grzewczych, materiałów łatwopalnych i substancji chemicznych bez uprzedniej zgody Stowarzyszenia.
-5. Zabrania się spożywania alkoholu, przebywania pod jego wpływem oraz posiadania, używania lub spożywania narkotyków i innych środków psychoaktywnych, z wyjątkiem leków przyjmowanych zgodnie z zaleceniami lekarza.
-6. Wszelkie zagrożenia, uszkodzenia i awarie należy niezwłocznie zgłosić osobie odpowiedzialnej za Hackerspace Szczecin i przerwać czynność lub opuścić zagrożony obszar. W razie potrzeby należy ostrzec inne osoby i wezwać właściwe służby, bez podejmowania działań przekraczających własne umiejętności.
+4. Zabrania się używania ognia, urządzeń grzewczych, materiałów łatwopalnych i substancji chemicznych bez uprzedniej zgody Stowarzyszenia. // refactor na prowadzenie zgodnie z wytycznymi
+5. Zabrania się spożywania alkoholu, przebywania pod jego wpływem oraz posiadania, używania lub spożywania narkotyków i innych środków psychoaktywnych, z wyjątkiem leków przyjmowanych zgodnie z zaleceniami lekarza. //nz wydarzenie lub za zgoda
+6. Wszelkie zagrożenia, uszkodzenia i awarie należy niezwłocznie //zgłosić w wspolnym kanale komunikacyjnym //za Hackerspace Szczecin i przerwać czynność lub opuścić zagrożony obszar. W razie potrzeby należy ostrzec inne osoby i wezwać właściwe służby, bez podejmowania działań przekraczających własne umiejętności. //
 
 ---
 
 ## § 4. Materiały o nieznanym charakterze
+
+// zmienic na zakaz przechowywania nieopisanych substancji
 
 1. Materiałów, pojemników, substancji, odpadów ani urządzeń o nieznanym charakterze nie wolno dotykać, otwierać, przemieszczać ani próbować identyfikować przez wąchanie, podgrzewanie, spalanie lub inne działania.
 2. Należy ograniczyć dostęp do miejsca zagrożenia i niezwłocznie powiadomić osobę odpowiedzialną za Przestrzeń. W razie bezpośredniego zagrożenia życia lub zdrowia należy opuścić obszar i zawiadomić właściwe służby.
@@ -45,14 +48,14 @@
 
 1. Rzeczy, narzędzia, materiały i projekty należy przechowywać w sposób nieutrudniający korzystania z Przestrzeni, nieblokujący przejść i niezagrażający innym osobom.
 2. Jeżeli pozostawiona rzecz przeszkadza w korzystaniu z Przestrzeni, należy zgłosić ją na ustalonym kanale komunikacji, podając jej lokalizację i, jeżeli jest znany, właściciela.
-3. Jeżeli w ciągu 7 dni od zgłoszenia właściciel nie wypowie się w sprawie rzeczy ani nie ustali sposobu jej zabezpieczenia lub usunięcia, rzecz może zostać wyrzucona albo zagospodarowana przez Stowarzyszenie.
+3. Jeżeli w ciągu //48h dni od zgłoszenia właściciel nie wypowie się w sprawie rzeczy ani nie ustali sposobu jej zabezpieczenia lub usunięcia, rzecz może zostać wyrzucona albo zagospodarowana przez Stowarzyszenie.
 4. Osoba, która pracuje nad projektem dłużej niż jednorazowo, może mieć wyznaczone i oznaczone miejsce przechowywania. Z rzeczy znajdujących się w takim miejscu nie wolno niczego wyrzucać ani przenosić bez zgody osoby prowadzącej projekt.
-5. Właściciele odpowiadają za swoje rzeczy i mają obowiązek korzystać z nich w sposób bezpieczny. Zasady tego paragrafu nie dotyczą materiałów lub urządzeń stwarzających bezpośrednie zagrożenie, które należy zabezpieczyć niezwłocznie.
+5. Właściciele odpowiadają za swoje rzeczy i mają obowiązek korzystać z nich w sposób bezpieczny. Zasady tego paragrafu nie dotyczą materiałów lub urządzeń stwarzających bezpośrednie zagrożenie, które należy zabezpieczyć niezwłocznie. //do usuniecia 
 6. Narzędzia z Przestrzeni mogą być wypożyczane wyłącznie za uprzednią konsultacją i pisemnym lub elektronicznym zatwierdzeniem przez Stowarzyszenie albo właściciela danego narzędzia. Wypożyczenie bez wyraźnej zgody jest zabronione. Właściciel lub Stowarzyszenie może ustalić warunki wypożyczenia, termin zwrotu, sposób zabezpieczenia i odpowiedzialność za szkody. Każdy wypożyczający odpowiada za stan narzędzia w czasie wypożyczenia i zobowiązuje się do zwrotu w niepogorszonym stanie.
 
 ---
 
-## § 6. Odpowiedzialność i naruszenia
+## § 6. Odpowiedzialność i naruszenia // nic nie wnosi
 
 1. Wszyscy użytkownicy ponoszą w równym zakresie odpowiedzialność za mienie oraz za szkody powstałe wskutek ich zawinionego działania lub zaniechania, z uwzględnieniem bezwzględnie obowiązujących przepisów prawa.
 2. Naruszenie Regulaminu może skutkować upomnieniem, ograniczeniem lub cofnięciem dostępu, żądaniem zwrotu środków dostępu, nakazem opuszczenia Przestrzeni albo podjęciem innych działań przewidzianych prawem.
