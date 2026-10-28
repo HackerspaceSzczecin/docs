@@ -229,7 +229,7 @@ Kadencja wszystkich wybieralnych władz Stowarzyszenia trwa jeden rok.
 2\. Walne Zebranie może być zwyczajne i nadzwyczajne.
 
 3\. Zwyczajne Walne Zebrania zwołuje Zarząd raz w roku, jako
-sprawozdawcze, i co pięć lat, jako sprawozdawczo-wyborcze, zawiadamiając
+sprawozdawcze, i co roku, jako sprawozdawczo-wyborcze, zawiadamiając
 członków o jego terminie, miejscu i proponowanym porządku obrad co
 najmniej na 14 dni przed terminem Walnego Zebrania. Jeśli na zebraniu
 nie ma wymaganego kworum, zwołuje się zebranie w drugim terminie nie
