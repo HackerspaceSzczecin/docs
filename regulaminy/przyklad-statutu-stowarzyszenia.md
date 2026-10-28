@@ -31,7 +31,7 @@ nieokreślony.
 
 **§ 5**
 
-[]{#anchor}Stowarzyszenie współpracuje z krajowymi, zagranicznymi i
+Stowarzyszenie współpracuje z krajowymi, zagranicznymi i
 międzynarodowymi organizacjami pozarządowymi i innymi instytucjami. Może
 pozostawać członkiem tych organizacji na zasadach pełnej autonomii.
 
@@ -273,7 +273,7 @@ g.  podejmowanie uchwały o rozwiązaniu Stowarzyszenia i przeznaczeniu
 
 h.  podejmowanie uchwał w sprawie nadania członkostwa honorowego.
 
-**Zarząd **
+####### **Zarząd**
 
 **§ 23**
 
