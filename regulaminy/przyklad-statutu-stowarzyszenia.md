@@ -43,28 +43,63 @@ biura.
 
 **Rozdział II. Cele i sposoby ich realizacji**
 
-**§ 7**
+§ 7
 
-1. Celem Stowarzyszenia jest upowszechnianie wiedzy, wspieranie innowacyjności oraz rozwój interdyscyplinarnych badań, prac naukowo-badawczych, działań kulturalnych oraz artystycznych.
+Celem Stowarzyszenia jest:
 
-**§ 8**
+1. upowszechnianie wiedzy, rozwijanie zainteresowań oraz wspieranie edukacji, w szczególności w zakresie nauki, techniki, nowych technologii i kompetencji cyfrowych;
 
-Stowarzyszenie swe cele realizuje poprzez:
+2. wspieranie innowacyjności, twórczości, wynalazczości oraz rozwoju interdyscyplinarnych projektów i badań naukowych;
 
-2.1. tworzenie i utrzymywanie infrastruktury stymulującej rozwój projektów i użyczanie potrzebnych narzędzi,
+3. rozwijanie kompetencji technicznych, zawodowych, społecznych i cyfrowych oraz wspieranie uczenia się przez całe życie;
 
-2.2. realizację i wspieranie projektów naukowych,
+4. wspieranie rozwoju dzieci, młodzieży i osób dorosłych poprzez edukację, działalność twórczą i aktywne uczestnictwo w życiu społecznym;
 
-2.3. działalność edukacyjną, w szczególności prowadzenie spotkań, konferencji, seminariów, wykładów i szkoleń,
+5. integracja społeczności lokalnych, rozwijanie współpracy międzyludzkiej, aktywności obywatelskiej i wolontariatu;
 
-2.4. organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów oraz udział w wydarzeniach
-    promujących naukę, edukację, sztukę,
+6. promowanie ochrony środowiska, zrównoważonego rozwoju, gospodarki o obiegu zamkniętym oraz odpowiedzialnej konsumpcji, w szczególności poprzez naprawianie, ponowne wykorzystywanie i przetwarzanie przedmiotów oraz urządzeń;
 
-2.5. działalność publicystyczną i wydawniczą,
+7. wspieranie działalności kulturalnej i artystycznej, ochrony dziedzictwa kulturowego i technicznego oraz popularyzowanie historii nauki, techniki i przemysłu;
 
-2.6. integrację środowiska akademickiego, naukowego, przemysłowego i artystycznego,
+8. wspieranie rozwoju społeczeństwa informacyjnego, otwartej wiedzy, otwartego oprogramowania i technologii oraz swobodnej wymiany doświadczeń i umiejętności;
 
-2.7. współpracę z krajowymi i zagranicznymi organizacjami o podobnych celach.
+9. przeciwdziałanie wykluczeniu społecznemu i cyfrowemu oraz wyrównywanie szans w dostępie do edukacji, wiedzy i nowych technologii;
+
+10. tworzenie i rozwijanie przestrzeni sprzyjających współpracy, eksperymentowaniu, wymianie wiedzy i realizacji projektów społecznych, naukowych, technicznych i artystycznych.
+
+§ 8
+
+Stowarzyszenie realizuje swoje cele poprzez:
+
+1. tworzenie, rozwijanie i utrzymywanie przestrzeni warsztatowych, edukacyjnych i twórczych oraz udostępnianie infrastruktury, narzędzi, urządzeń i materiałów służących realizacji celów statutowych;
+
+2. organizowanie i prowadzenie warsztatów, szkoleń, kursów, wykładów, seminariów, konferencji, pokazów oraz innych form edukacji formalnej i pozaformalnej;
+
+3. inicjowanie, realizowanie i wspieranie projektów naukowych, badawczych, technicznych, informatycznych, inżynieryjnych, artystycznych i społecznych;
+
+4. organizowanie konkursów, hackathonów, wystaw, festiwali, wydarzeń kulturalnych, edukacyjnych, integracyjnych i popularyzatorskich;
+
+5. prowadzenie działań na rzecz ochrony środowiska i zrównoważonego rozwoju, w szczególności poprzez organizowanie warsztatów naprawczych, promowanie ponownego wykorzystania przedmiotów, ograniczania odpadów oraz odpowiedzialnej konsumpcji;
+
+6. podejmowanie inicjatyw służących integracji społeczności lokalnych, aktywizacji mieszkańców, rozwojowi społeczeństwa obywatelskiego oraz wspieraniu oddolnych inicjatyw społecznych;
+
+7. prowadzenie działań edukacyjnych i rozwojowych skierowanych do dzieci, młodzieży, dorosłych i seniorów, w tym osób zagrożonych wykluczeniem społecznym lub cyfrowym;
+
+8. prowadzenie działań na rzecz ochrony, dokumentowania i popularyzacji dziedzictwa kulturowego, przemysłowego i technicznego, w szczególności poprzez wystawy, warsztaty, rekonstrukcje, digitalizację i projekty edukacyjne;
+
+9. promowanie i rozwijanie otwartego oprogramowania, otwartych technologii, otwartej nauki oraz swobodnego dostępu do wiedzy, w szczególności poprzez tworzenie i udostępnianie dokumentacji, projektów, materiałów edukacyjnych i rozwiązań technicznych;
+
+10. prowadzenie działalności wydawniczej, publicystycznej, informacyjnej i popularyzatorskiej, w tym za pośrednictwem mediów elektronicznych;
+
+11. wspieranie rozwoju kompetencji zawodowych, technicznych, cyfrowych i społecznych, w szczególności poprzez praktyczną naukę, mentoring, wymianę doświadczeń oraz współpracę międzypokoleniową;
+
+12. inicjowanie i wspieranie wolontariatu oraz angażowanie społeczności w realizację projektów i przedsięwzięć służących dobru wspólnemu;
+
+13. współpracę z organizacjami pozarządowymi, instytucjami naukowymi, placówkami oświatowymi, instytucjami kultury, przedsiębiorstwami, jednostkami samorządu terytorialnego, administracją publiczną oraz innymi podmiotami krajowymi i zagranicznymi;
+
+14. pozyskiwanie środków i realizację projektów finansowanych ze źródeł publicznych i prywatnych, w tym ze środków krajowych i zagranicznych, służących realizacji celów statutowych Stowarzyszenia;
+
+15. organizowanie i wspieranie innych przedsięwzięć edukacyjnych, naukowych, technicznych, kulturalnych, ekologicznych i społecznych, zgodnych z celami statutowymi Stowarzyszenia.
 
 **Rozdział III. Członkowie Stowarzyszenia**
 
@@ -358,7 +393,7 @@ a\. składki członkowskie,
 b\. darowizny, zapisy i spadki, środki pochodzące z ofiarności
 publicznej,
 
-c\. dotacje, subwencje, udziały, lokaty
+c\. dotacje, subwencje, granty oraz inne środki pochodzące ze źródeł publicznych i prywatnych, w tym funduszy krajowych i zagranicznych,
 
 d\. dochody z majątku stowarzyszenia, dochody z własnej działalności
 
