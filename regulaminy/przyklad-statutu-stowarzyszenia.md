@@ -43,63 +43,63 @@ biura.
 
 **Rozdział II. Cele i sposoby ich realizacji**
 
-§ 7
+**§ 7**
 
 Celem Stowarzyszenia jest:
 
-1. upowszechnianie wiedzy, rozwijanie zainteresowań oraz wspieranie edukacji, w szczególności w zakresie nauki, techniki, nowych technologii i kompetencji cyfrowych;
+1\. upowszechnianie wiedzy, rozwijanie zainteresowań oraz wspieranie edukacji, w szczególności w zakresie nauki, techniki, nowych technologii i kompetencji cyfrowych;
 
-2. wspieranie innowacyjności, twórczości, wynalazczości oraz rozwoju interdyscyplinarnych projektów i badań naukowych;
+2\. wspieranie innowacyjności, twórczości, wynalazczości oraz rozwoju interdyscyplinarnych projektów i badań naukowych;
 
-3. rozwijanie kompetencji technicznych, zawodowych, społecznych i cyfrowych oraz wspieranie uczenia się przez całe życie;
+3\. rozwijanie kompetencji technicznych, zawodowych, społecznych i cyfrowych oraz wspieranie uczenia się przez całe życie;
 
-4. wspieranie rozwoju dzieci, młodzieży i osób dorosłych poprzez edukację, działalność twórczą i aktywne uczestnictwo w życiu społecznym;
+4\. wspieranie rozwoju dzieci, młodzieży i osób dorosłych poprzez edukację, działalność twórczą i aktywne uczestnictwo w życiu społecznym;
 
-5. integracja społeczności lokalnych, rozwijanie współpracy międzyludzkiej, aktywności obywatelskiej i wolontariatu;
+5\. integracja społeczności lokalnych, rozwijanie współpracy międzyludzkiej, aktywności obywatelskiej i wolontariatu;
 
-6. promowanie ochrony środowiska, zrównoważonego rozwoju, gospodarki o obiegu zamkniętym oraz odpowiedzialnej konsumpcji, w szczególności poprzez naprawianie, ponowne wykorzystywanie i przetwarzanie przedmiotów oraz urządzeń;
+6\. promowanie ochrony środowiska, zrównoważonego rozwoju, gospodarki o obiegu zamkniętym oraz odpowiedzialnej konsumpcji, w szczególności poprzez naprawianie, ponowne wykorzystywanie i przetwarzanie przedmiotów oraz urządzeń;
 
-7. wspieranie działalności kulturalnej i artystycznej, ochrony dziedzictwa kulturowego i technicznego oraz popularyzowanie historii nauki, techniki i przemysłu;
+7\. wspieranie działalności kulturalnej i artystycznej, ochrony dziedzictwa kulturowego i technicznego oraz popularyzowanie historii nauki, techniki i przemysłu;
 
-8. wspieranie rozwoju społeczeństwa informacyjnego, otwartej wiedzy, otwartego oprogramowania i technologii oraz swobodnej wymiany doświadczeń i umiejętności;
+8\. wspieranie rozwoju społeczeństwa informacyjnego, otwartej wiedzy, otwartego oprogramowania i technologii oraz swobodnej wymiany doświadczeń i umiejętności;
 
-9. przeciwdziałanie wykluczeniu społecznemu i cyfrowemu oraz wyrównywanie szans w dostępie do edukacji, wiedzy i nowych technologii;
+9\. przeciwdziałanie wykluczeniu społecznemu i cyfrowemu oraz wyrównywanie szans w dostępie do edukacji, wiedzy i nowych technologii;
 
-10. tworzenie i rozwijanie przestrzeni sprzyjających współpracy, eksperymentowaniu, wymianie wiedzy i realizacji projektów społecznych, naukowych, technicznych i artystycznych.
+10\. tworzenie i rozwijanie przestrzeni sprzyjających współpracy, eksperymentowaniu, wymianie wiedzy i realizacji projektów społecznych, naukowych, technicznych i artystycznych.
 
-§ 8
+**§ 8**
 
 Stowarzyszenie realizuje swoje cele poprzez:
 
-1. tworzenie, rozwijanie i utrzymywanie przestrzeni warsztatowych, edukacyjnych i twórczych oraz udostępnianie infrastruktury, narzędzi, urządzeń i materiałów służących realizacji celów statutowych;
+1\. tworzenie, rozwijanie i utrzymywanie przestrzeni warsztatowych, edukacyjnych i twórczych oraz udostępnianie infrastruktury, narzędzi, urządzeń i materiałów służących realizacji celów statutowych;
 
-2. organizowanie i prowadzenie warsztatów, szkoleń, kursów, wykładów, seminariów, konferencji, pokazów oraz innych form edukacji formalnej i pozaformalnej;
+2\. organizowanie i prowadzenie warsztatów, szkoleń, kursów, wykładów, seminariów, konferencji, pokazów oraz innych form edukacji formalnej i pozaformalnej;
 
-3. inicjowanie, realizowanie i wspieranie projektów naukowych, badawczych, technicznych, informatycznych, inżynieryjnych, artystycznych i społecznych;
+3\. inicjowanie, realizowanie i wspieranie projektów naukowych, badawczych, technicznych, informatycznych, inżynieryjnych, artystycznych i społecznych;
 
-4. organizowanie konkursów, hackathonów, wystaw, festiwali, wydarzeń kulturalnych, edukacyjnych, integracyjnych i popularyzatorskich;
+4\. organizowanie konkursów, hackathonów, wystaw, festiwali, wydarzeń kulturalnych, edukacyjnych, integracyjnych i popularyzatorskich;
 
-5. prowadzenie działań na rzecz ochrony środowiska i zrównoważonego rozwoju, w szczególności poprzez organizowanie warsztatów naprawczych, promowanie ponownego wykorzystania przedmiotów, ograniczania odpadów oraz odpowiedzialnej konsumpcji;
+5\. prowadzenie działań na rzecz ochrony środowiska i zrównoważonego rozwoju, w szczególności poprzez organizowanie warsztatów naprawczych, promowanie ponownego wykorzystania przedmiotów, ograniczania odpadów oraz odpowiedzialnej konsumpcji;
 
-6. podejmowanie inicjatyw służących integracji społeczności lokalnych, aktywizacji mieszkańców, rozwojowi społeczeństwa obywatelskiego oraz wspieraniu oddolnych inicjatyw społecznych;
+6\. podejmowanie inicjatyw służących integracji społeczności lokalnych, aktywizacji mieszkańców, rozwojowi społeczeństwa obywatelskiego oraz wspieraniu oddolnych inicjatyw społecznych;
 
-7. prowadzenie działań edukacyjnych i rozwojowych skierowanych do dzieci, młodzieży, dorosłych i seniorów, w tym osób zagrożonych wykluczeniem społecznym lub cyfrowym;
+7\. prowadzenie działań edukacyjnych i rozwojowych skierowanych do dzieci, młodzieży, dorosłych i seniorów, w tym osób zagrożonych wykluczeniem społecznym lub cyfrowym;
 
-8. prowadzenie działań na rzecz ochrony, dokumentowania i popularyzacji dziedzictwa kulturowego, przemysłowego i technicznego, w szczególności poprzez wystawy, warsztaty, rekonstrukcje, digitalizację i projekty edukacyjne;
+8\. prowadzenie działań na rzecz ochrony, dokumentowania i popularyzacji dziedzictwa kulturowego, przemysłowego i technicznego, w szczególności poprzez wystawy, warsztaty, rekonstrukcje, digitalizację i projekty edukacyjne;
 
-9. promowanie i rozwijanie otwartego oprogramowania, otwartych technologii, otwartej nauki oraz swobodnego dostępu do wiedzy, w szczególności poprzez tworzenie i udostępnianie dokumentacji, projektów, materiałów edukacyjnych i rozwiązań technicznych;
+9\. promowanie i rozwijanie otwartego oprogramowania, otwartych technologii, otwartej nauki oraz swobodnego dostępu do wiedzy, w szczególności poprzez tworzenie i udostępnianie dokumentacji, projektów, materiałów edukacyjnych i rozwiązań technicznych;
 
-10. prowadzenie działalności wydawniczej, publicystycznej, informacyjnej i popularyzatorskiej, w tym za pośrednictwem mediów elektronicznych;
+10\. prowadzenie działalności wydawniczej, publicystycznej, informacyjnej i popularyzatorskiej, w tym za pośrednictwem mediów elektronicznych;
 
-11. wspieranie rozwoju kompetencji zawodowych, technicznych, cyfrowych i społecznych, w szczególności poprzez praktyczną naukę, mentoring, wymianę doświadczeń oraz współpracę międzypokoleniową;
+11\. wspieranie rozwoju kompetencji zawodowych, technicznych, cyfrowych i społecznych, w szczególności poprzez praktyczną naukę, mentoring, wymianę doświadczeń oraz współpracę międzypokoleniową;
 
-12. inicjowanie i wspieranie wolontariatu oraz angażowanie społeczności w realizację projektów i przedsięwzięć służących dobru wspólnemu;
+12\. inicjowanie i wspieranie wolontariatu oraz angażowanie społeczności w realizację projektów i przedsięwzięć służących dobru wspólnemu;
 
-13. współpracę z organizacjami pozarządowymi, instytucjami naukowymi, placówkami oświatowymi, instytucjami kultury, przedsiębiorstwami, jednostkami samorządu terytorialnego, administracją publiczną oraz innymi podmiotami krajowymi i zagranicznymi;
+13\. współpracę z organizacjami pozarządowymi, instytucjami naukowymi, placówkami oświatowymi, instytucjami kultury, przedsiębiorstwami, jednostkami samorządu terytorialnego, administracją publiczną oraz innymi podmiotami krajowymi i zagranicznymi;
 
-14. pozyskiwanie środków i realizację projektów finansowanych ze źródeł publicznych i prywatnych, w tym ze środków krajowych i zagranicznych, służących realizacji celów statutowych Stowarzyszenia;
+14\. pozyskiwanie środków i realizację projektów finansowanych ze źródeł publicznych i prywatnych, w tym ze środków krajowych i zagranicznych, służących realizacji celów statutowych Stowarzyszenia;
 
-15. organizowanie i wspieranie innych przedsięwzięć edukacyjnych, naukowych, technicznych, kulturalnych, ekologicznych i społecznych, zgodnych z celami statutowymi Stowarzyszenia.
+15\. organizowanie i wspieranie innych przedsięwzięć edukacyjnych, naukowych, technicznych, kulturalnych, ekologicznych i społecznych, zgodnych z celami statutowymi Stowarzyszenia.
 
 **Rozdział III. Członkowie Stowarzyszenia**
 
@@ -107,6 +107,7 @@ Stowarzyszenie realizuje swoje cele poprzez:
 
 1\.  Członkami Stowarzyszenia mogą być osoby fizyczne i prawne. Osoba
     prawna może być jedynie członkiem wspierającym Stowarzyszenia.
+	
 2\.  Stowarzyszenie posiada członków:
 
 a.  zwyczajnych,
@@ -130,7 +131,7 @@ później niż w ciągu dwóch miesięcy od daty złożenia deklaracji.
 prawna, która zadeklaruje na piśmie pomoc finansową, rzeczową lub
 merytoryczną w realizacji celów Stowarzyszenia.
 
-2\. . Członkiem wspierającym zostaje się na podstawie uchwały Zarządu
+2\. Członkiem wspierającym zostaje się na podstawie uchwały Zarządu
 podjętej nie później niż w ciągu dwóch miesięcy od daty złożenia
 pisemnej deklaracji
 
@@ -240,8 +241,10 @@ względu na liczbę obecnych członków, chyba, że dalsze postanowienia
 statutu stanowią inaczej.
 
 2\. Posiedzenia Walnego Zebrania Członków, Zarządu i Komisji Rewizyjnej mogą odbywać się przy wykorzystaniu środków komunikacji elektronicznej (w formie zdalnej lub hybrydowej), co obejmuje w szczególności:
-	• dwustronną komunikację w czasie rzeczywistym wszystkich osób uczestniczących w posiedzeniu,
-	• wykonywanie prawa głosu osobiście w toku posiedzenia.
+
+a\. dwustronną komunikację w czasie rzeczywistym wszystkich osób uczestniczących w posiedzeniu,
+
+b\. wykonywanie prawa głosu osobiście w toku posiedzenia.
 
 3\. O przeprowadzeniu posiedzenia w sposób, o którym mowa w ust. 2, decyduje organ zwołujący dane posiedzenie, wskazując tę formę w zawiadomieniu o zebraniu wraz z dokładnym opisem sposobu uczestnictwa i wykonywania prawa głosu.
 
