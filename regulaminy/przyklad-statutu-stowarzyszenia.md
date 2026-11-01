@@ -6,7 +6,7 @@
 
 **§ 1**
 
-1\. Stowarzyszenie Hackerspace Szczecin, zwane dalej
+Stowarzyszenie Hackerspace Szczecin, zwane dalej
 Stowarzyszeniem, działa na podstawie Ustawy Prawo o stowarzyszeniach,
 Ustawy o działalności pożytku publicznego i o wolontariacie
 oraz postanowień niniejszego statutu.
@@ -48,59 +48,63 @@ biura.
 
 Celem Stowarzyszenia jest:
 
-1\. upowszechnianie wiedzy, rozwijanie zainteresowań oraz wspieranie edukacji, w szczególności w zakresie nauki, techniki, nowych technologii i kompetencji cyfrowych;
+a. upowszechnianie wiedzy, rozwijanie zainteresowań oraz wspieranie edukacji, w szczególności w zakresie nauki, techniki, nowych technologii i kompetencji cyfrowych,
 
-2\. wspieranie innowacyjności, twórczości, wynalazczości oraz rozwoju interdyscyplinarnych projektów i badań naukowych;
+b. wspieranie innowacyjności, twórczości, wynalazczości oraz rozwoju interdyscyplinarnych projektów i badań naukowych,
 
-3\. rozwijanie kompetencji technicznych, zawodowych, społecznych i cyfrowych oraz wspieranie uczenia się przez całe życie;
+c. rozwijanie kompetencji technicznych, zawodowych, społecznych i cyfrowych oraz wspieranie uczenia się przez całe życie,
 
-4\. wspieranie rozwoju dzieci, młodzieży i osób dorosłych poprzez edukację, działalność twórczą i aktywne uczestnictwo w życiu społecznym;
+d. wspieranie rozwoju dzieci, młodzieży i osób dorosłych poprzez edukację, działalność twórczą i aktywne uczestnictwo w życiu społecznym,
 
-5\. integracja społeczności lokalnych, rozwijanie współpracy międzyludzkiej, aktywności obywatelskiej i wolontariatu;
+e. integracja społeczności lokalnych, rozwijanie współpracy międzyludzkiej, aktywności obywatelskiej i wolontariatu,
 
-6\. promowanie ochrony środowiska, zrównoważonego rozwoju, gospodarki o obiegu zamkniętym oraz odpowiedzialnej konsumpcji, w szczególności poprzez naprawianie, ponowne wykorzystywanie i przetwarzanie przedmiotów oraz urządzeń;
+f. promowanie ochrony środowiska, zrównoważonego rozwoju, gospodarki o obiegu zamkniętym oraz odpowiedzialnej konsumpcji, w szczególności poprzez naprawianie, ponowne wykorzystywanie i przetwarzanie przedmiotów oraz urządzeń,
 
-7\. wspieranie działalności kulturalnej i artystycznej, rewitalizacji społecznej, ochrony dziedzictwa kulturowego i technicznego oraz popularyzowanie historii nauki, techniki, przemysłu i tradycji ruchów społecznych;
+g. wspieranie działalności kulturalnej i artystycznej, ochrony dziedzictwa kulturowego, przemysłowego i technicznego, rewitalizacji społecznej oraz popularyzowanie historii nauki, techniki, przemysłu i tradycji ruchów społecznych,
 
-8\. wspieranie rozwoju społeczeństwa informacyjnego, otwartej wiedzy, otwartego oprogramowania i technologii oraz swobodnej wymiany doświadczeń i umiejętności;
+h. wspieranie rozwoju społeczeństwa informacyjnego, otwartej wiedzy, otwartego oprogramowania i technologii oraz swobodnej wymiany doświadczeń i umiejętności,
 
-9\. przeciwdziałanie wykluczeniu społecznemu i cyfrowemu oraz wyrównywanie szans w dostępie do edukacji, wiedzy i nowych technologii;
+i. przeciwdziałanie wykluczeniu społecznemu i cyfrowemu oraz wyrównywanie szans w dostępie do edukacji, wiedzy i nowych technologii,
 
-10\. tworzenie i rozwijanie przestrzeni sprzyjających współpracy, eksperymentowaniu, wymianie wiedzy i realizacji projektów społecznych, naukowych, technicznych i artystycznych.
+j. tworzenie i rozwijanie przestrzeni sprzyjających współpracy, eksperymentowaniu, wymianie wiedzy i realizacji projektów społecznych, naukowych, technicznych i artystycznych.
 
 **§ 8**
 
-Stowarzyszenie realizuje swoje cele poprzez:
+1\. Stowarzyszenie realizuje swoje cele poprzez:
 
-1\. tworzenie, rozwijanie i utrzymywanie przestrzeni warsztatowych, edukacyjnych i twórczych, w tym adaptację, remont, modernizację i wyposażanie użytkowanych lokali, oraz udostępnianie infrastruktury, narzędzi, urządzeń i materiałów służących realizacji celów statutowych;
+a. tworzenie, rozwijanie i utrzymywanie przestrzeni warsztatowych, edukacyjnych i twórczych, w tym adaptację, remont, modernizację i wyposażanie użytkowanych lokali, a także udostępnianie infrastruktury, narzędzi, urządzeń i materiałów służących realizacji celów statutowych,
 
-2\. organizowanie i prowadzenie warsztatów, szkoleń, kursów, wykładów, seminariów, konferencji, pokazów oraz innych form edukacji formalnej i pozaformalnej;
+b. organizowanie i prowadzenie warsztatów, szkoleń, kursów, wykładów, seminariów, konferencji, pokazów oraz innych form edukacji formalnej i pozaformalnej,
 
-3\. inicjowanie, realizowanie i wspieranie projektów naukowych, badawczych, technicznych, informatycznych, inżynieryjnych, artystycznych i społecznych;
+c. inicjowanie, realizowanie i wspieranie projektów naukowych, badawczych, technicznych, informatycznych, inżynieryjnych, artystycznych i społecznych,
 
-4\. organizowanie konkursów, hackathonów, wystaw, festiwali, wydarzeń kulturalnych, edukacyjnych, integracyjnych i popularyzatorskich;
+d. organizowanie konkursów, hackathonów, wystaw, festiwali, wydarzeń kulturalnych, edukacyjnych, integracyjnych i popularyzatorskich,
 
-5\. prowadzenie działań na rzecz ochrony środowiska i zrównoważonego rozwoju, w szczególności poprzez organizowanie warsztatów naprawczych, promowanie ponownego wykorzystania przedmiotów, ograniczania odpadów oraz odpowiedzialnej konsumpcji;
+e. prowadzenie działań na rzecz ochrony środowiska i zrównoważonego rozwoju, w szczególności poprzez organizowanie warsztatów naprawczych, promowanie ponownego wykorzystania przedmiotów, ograniczania odpadów oraz odpowiedzialnej konsumpcji,
 
-6\. podejmowanie inicjatyw służących integracji społeczności lokalnych, aktywizacji mieszkańców, rozwojowi społeczeństwa obywatelskiego oraz wspieraniu oddolnych inicjatyw społecznych;
+f. podejmowanie inicjatyw służących integracji społeczności lokalnych, aktywizacji mieszkańców, rozwojowi społeczeństwa obywatelskiego oraz wspieraniu oddolnych inicjatyw społecznych,
 
-7\. prowadzenie działań edukacyjnych i rozwojowych skierowanych do dzieci, młodzieży, dorosłych i seniorów, w tym osób zagrożonych wykluczeniem społecznym lub cyfrowym;
+g. prowadzenie działań edukacyjnych i rozwojowych skierowanych do dzieci, młodzieży, dorosłych i seniorów, w tym osób zagrożonych wykluczeniem społecznym lub cyfrowym,
 
-8\. prowadzenie działań na rzecz rewitalizacji społecznej oraz ochrony, dokumentowania i popularyzacji dziedzictwa kulturowego, przemysłowego, technicznego i tradycji ruchów społecznych, w szczególności poprzez wystawy, warsztaty, rekonstrukcje, digitalizację i projekty edukacyjne;
+h. prowadzenie działań na rzecz rewitalizacji społecznej oraz ochrony, dokumentowania i popularyzacji dziedzictwa kulturowego, przemysłowego, technicznego i tradycji ruchów społecznych, w szczególności poprzez wystawy, warsztaty, rekonstrukcje, digitalizację i projekty edukacyjne,
 
-9\. promowanie i rozwijanie otwartego oprogramowania, otwartych technologii, otwartej nauki oraz swobodnego dostępu do wiedzy, w szczególności poprzez tworzenie i udostępnianie dokumentacji, projektów, materiałów edukacyjnych i rozwiązań technicznych;
+i. promowanie i rozwijanie otwartego oprogramowania, otwartych technologii, otwartej nauki oraz swobodnego dostępu do wiedzy, w szczególności poprzez tworzenie i udostępnianie dokumentacji, projektów, materiałów edukacyjnych i rozwiązań technicznych,
 
-10\. prowadzenie działalności wydawniczej, publicystycznej, informacyjnej i popularyzatorskiej, w tym za pośrednictwem mediów elektronicznych;
+j. prowadzenie działalności wydawniczej, publicystycznej, informacyjnej i popularyzatorskiej, w tym za pośrednictwem mediów elektronicznych,
 
-11\. wspieranie rozwoju kompetencji zawodowych, technicznych, cyfrowych i społecznych, w szczególności poprzez praktyczną naukę, mentoring, wymianę doświadczeń oraz współpracę międzypokoleniową;
+k. wspieranie rozwoju kompetencji zawodowych, technicznych, cyfrowych i społecznych, w szczególności poprzez praktyczną naukę, mentoring, wymianę doświadczeń oraz współpracę międzypokoleniową,
 
-12\. inicjowanie i wspieranie wolontariatu oraz angażowanie społeczności w realizację projektów i przedsięwzięć służących dobru wspólnemu;
+l. inicjowanie i wspieranie wolontariatu oraz angażowanie społeczności w realizację projektów i przedsięwzięć służących dobru wspólnemu,
 
-13\. współpracę z organizacjami pozarządowymi, instytucjami naukowymi, placówkami oświatowymi, instytucjami kultury, przedsiębiorstwami, jednostkami samorządu terytorialnego, administracją publiczną oraz innymi podmiotami krajowymi i zagranicznymi;
+m. współpracę z organizacjami pozarządowymi, instytucjami naukowymi, placówkami oświatowymi, instytucjami kultury, przedsiębiorstwami, jednostkami samorządu terytorialnego, administracją publiczną oraz innymi podmiotami krajowymi i zagranicznymi,
 
-14\. pozyskiwanie środków i realizację projektów finansowanych ze źródeł publicznych i prywatnych, w tym ze środków krajowych i zagranicznych, służących realizacji celów statutowych Stowarzyszenia;
+n. pozyskiwanie środków i realizację projektów finansowanych ze źródeł publicznych i prywatnych, w tym ze środków krajowych i zagranicznych, służących realizacji celów statutowych Stowarzyszenia,
 
-15\. organizowanie i wspieranie innych przedsięwzięć edukacyjnych, naukowych, technicznych, kulturalnych, ekologicznych i społecznych, zgodnych z celami statutowymi Stowarzyszenia.
+o. organizowanie i wspieranie innych przedsięwzięć edukacyjnych, naukowych, technicznych, kulturalnych, ekologicznych i społecznych, zgodnych z celami statutowymi Stowarzyszenia.
+
+2\. Działalność określona w ust. 1 jest wyłączną działalnością statutową Stowarzyszenia i może być prowadzona jako działalność nieodpłatna lub jako działalność odpłatna pożytku publicznego.
+
+3\. Szczegółowy zakres prowadzonej działalności nieodpłatnej i odpłatnej pożytku publicznego określa Zarząd w drodze uchwały.
 
 **Rozdział III. Członkowie Stowarzyszenia**
 
@@ -357,8 +361,7 @@ h\. ustalanie wysokości składek członkowskich.
 1\. Komisja Rewizyjna powołana jest do sprawowania kontroli nad
 działalnością Stowarzyszenia.
 
-2\. Komisja Rewizyjna składa się XXX w tym przewodniczącego
-wybieranego na pierwszym posiedzeniu komisji.
+2\. Komisja Rewizyjna składa się z od 2 do 5 członków, w tym przewodniczącego wybieranego na pierwszym posiedzeniu komisji.
 
 3\. Posiedzenia Komisji Rewizyjnej odbywają się w miarę potrzeb, nie
 rzadziej jednak niż raz w roku. Posiedzenia Komisji zwołuje
@@ -394,24 +397,21 @@ zebrania członków przez zarząd w określnym terminie
 
 a\. składki członkowskie,
 
-b\. darowizny, zapisy i spadki, środki pochodzące z ofiarności
-publicznej,
+b\. darowizny, zapisy i spadki, środki pochodzące z ofiarności publicznej,
 
 c\. dotacje, subwencje, granty oraz inne środki pochodzące ze źródeł publicznych i prywatnych, w tym funduszy krajowych i zagranicznych,
 
-d\. dochody z majątku stowarzyszenia, dochody z własnej działalności, w tym z działalności gospodarczej.
+d\. dochody z majątku Stowarzyszenia, przychody z odpłatnej działalności pożytku publicznego oraz dochody z działalności gospodarczej.
 
-2\. Stowarzyszenie prowadzi gospodarkę finansową zgodnie z
-obowiązującymi przepisami.
+2\. Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami.
 
-3\. Decyzje w sprawie nabywania, zbywania i obciążania majątku
-Stowarzyszenia podejmuje Zarząd.
+3\. Decyzje w sprawie nabywania, zbywania i obciążania majątku Stowarzyszenia podejmuje Zarząd.
 
 4\. Stowarzyszenie może prowadzić działalność gospodarczą na ogólnych zasadach, określonych w odrębnych przepisach, w rozmiarach służących realizacji celów statutowych.
 
 5\. Dochód z działalności gospodarczej Stowarzyszenia służy wyłącznie realizacji celów statutowych i nie może być przeznaczony do podziału między jego członków.
 
-6\. O podjęciu i zakończeniu prowadzenia działalności gospodarczej oraz jej zakresie decyduje Zarząd w drodze uchwały.
+6\. O podjęciu i zakończeniu prowadzenia działalności gospodarczej oraz o jej zakresie decyduje Zarząd w drodze uchwały.
 
 **Sposób reprezentacji**
 
