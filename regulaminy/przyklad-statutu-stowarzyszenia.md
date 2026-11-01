@@ -7,7 +7,8 @@
 **§ 1**
 
 1\. Stowarzyszenie Hackerspace Szczecin, zwane dalej
-Stowarzyszeniem, działa na podstawie Ustawy Prawo o stowarzyszeniach
+Stowarzyszeniem, działa na podstawie Ustawy Prawo o stowarzyszeniach,
+Ustawy o działalności pożytku publicznego i o wolontariacie
 oraz postanowień niniejszego statutu.
 
 **§ 2**
@@ -59,7 +60,7 @@ Celem Stowarzyszenia jest:
 
 6\. promowanie ochrony środowiska, zrównoważonego rozwoju, gospodarki o obiegu zamkniętym oraz odpowiedzialnej konsumpcji, w szczególności poprzez naprawianie, ponowne wykorzystywanie i przetwarzanie przedmiotów oraz urządzeń;
 
-7\. wspieranie działalności kulturalnej i artystycznej, ochrony dziedzictwa kulturowego i technicznego oraz popularyzowanie historii nauki, techniki i przemysłu;
+7\. wspieranie działalności kulturalnej i artystycznej, rewitalizacji społecznej, ochrony dziedzictwa kulturowego i technicznego oraz popularyzowanie historii nauki, techniki, przemysłu i tradycji ruchów społecznych;
 
 8\. wspieranie rozwoju społeczeństwa informacyjnego, otwartej wiedzy, otwartego oprogramowania i technologii oraz swobodnej wymiany doświadczeń i umiejętności;
 
@@ -71,7 +72,7 @@ Celem Stowarzyszenia jest:
 
 Stowarzyszenie realizuje swoje cele poprzez:
 
-1\. tworzenie, rozwijanie i utrzymywanie przestrzeni warsztatowych, edukacyjnych i twórczych oraz udostępnianie infrastruktury, narzędzi, urządzeń i materiałów służących realizacji celów statutowych;
+1\. tworzenie, rozwijanie i utrzymywanie przestrzeni warsztatowych, edukacyjnych i twórczych, w tym adaptację, remont, modernizację i wyposażanie użytkowanych lokali, oraz udostępnianie infrastruktury, narzędzi, urządzeń i materiałów służących realizacji celów statutowych;
 
 2\. organizowanie i prowadzenie warsztatów, szkoleń, kursów, wykładów, seminariów, konferencji, pokazów oraz innych form edukacji formalnej i pozaformalnej;
 
@@ -85,7 +86,7 @@ Stowarzyszenie realizuje swoje cele poprzez:
 
 7\. prowadzenie działań edukacyjnych i rozwojowych skierowanych do dzieci, młodzieży, dorosłych i seniorów, w tym osób zagrożonych wykluczeniem społecznym lub cyfrowym;
 
-8\. prowadzenie działań na rzecz ochrony, dokumentowania i popularyzacji dziedzictwa kulturowego, przemysłowego i technicznego, w szczególności poprzez wystawy, warsztaty, rekonstrukcje, digitalizację i projekty edukacyjne;
+8\. prowadzenie działań na rzecz rewitalizacji społecznej oraz ochrony, dokumentowania i popularyzacji dziedzictwa kulturowego, przemysłowego, technicznego i tradycji ruchów społecznych, w szczególności poprzez wystawy, warsztaty, rekonstrukcje, digitalizację i projekty edukacyjne;
 
 9\. promowanie i rozwijanie otwartego oprogramowania, otwartych technologii, otwartej nauki oraz swobodnego dostępu do wiedzy, w szczególności poprzez tworzenie i udostępnianie dokumentacji, projektów, materiałów edukacyjnych i rozwiązań technicznych;
 
@@ -319,7 +320,7 @@ h.  podejmowanie uchwał w sprawie nadania członkostwa honorowego.
 zgodnie z uchwałami Walnego Zebrania Członków, a także reprezentuje
 Stowarzyszenie na zewnątrz.
 
-2\. Zarząd składa się z XXX, w tym prezesa wybieranego na
+2\. Zarząd składa się z od 3 do 5 członków, w tym prezesa wybieranego na
 pierwszym posiedzeniu zarządu.
 
 3\. Członkowie zarządu mogą otrzymywać wynagrodzenie za pełnione
@@ -334,7 +335,7 @@ Do kompetencji Zarządu należy:
 
 a\. kierowanie bieżącą pracą Stowarzyszenia,
 
-a\. realizowanie uchwał Walnego Zebrania,
+b\. realizowanie uchwał Walnego Zebrania,
 
 c\. zarządzanie majątkiem Stowarzyszenia,
 
@@ -398,13 +399,19 @@ publicznej,
 
 c\. dotacje, subwencje, granty oraz inne środki pochodzące ze źródeł publicznych i prywatnych, w tym funduszy krajowych i zagranicznych,
 
-d\. dochody z majątku stowarzyszenia, dochody z własnej działalności
+d\. dochody z majątku stowarzyszenia, dochody z własnej działalności, w tym z działalności gospodarczej.
 
 2\. Stowarzyszenie prowadzi gospodarkę finansową zgodnie z
 obowiązującymi przepisami.
 
 3\. Decyzje w sprawie nabywania, zbywania i obciążania majątku
 Stowarzyszenia podejmuje Zarząd.
+
+4\. Stowarzyszenie może prowadzić działalność gospodarczą na ogólnych zasadach, określonych w odrębnych przepisach, w rozmiarach służących realizacji celów statutowych.
+
+5\. Dochód z działalności gospodarczej Stowarzyszenia służy wyłącznie realizacji celów statutowych i nie może być przeznaczony do podziału między jego członków.
+
+6\. O podjęciu i zakończeniu prowadzenia działalności gospodarczej oraz jej zakresie decyduje Zarząd w drodze uchwały.
 
 **Sposób reprezentacji**
 
