@@ -66,7 +66,7 @@ komputerze:
 
 ```bash
 bin/make-pdf                                        # wszystkie dokumenty
-bin/make-pdf jednolite/regulamin-stowarzyszenia.md # jeden dokument
+bin/make-pdf uchwalone/jednolite/regulamin-stowarzyszenia.md # jeden dokument
 bin/make-pdf --html --png                           # dodatkowo podgląd HTML i PNG
 bin/make-pdf --rebuild                              # wymuszenie przebudowy obrazu
 ```
