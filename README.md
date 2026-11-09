@@ -5,16 +5,14 @@ Szczecin"** (skrót: **"HaSzcze"**). Wszystkie dokumenty są utrzymywane jako
 Markdown, żeby zmiany były wersjonowane, przeglądalne i możliwe do omówienia
 przed przyjęciem uchwałą.
 
-## Dokumenty
+## Struktura
 
-| Dokument | Zakres |
-| --- | --- |
-| [Regulamin Stowarzyszenia Zwykłego](regulaminy/regulamin-stowarzyszenia.md) | Nazwa, cele, teren działania, członkostwo, władze, reprezentacja, posiedzenia i głosowania, majątek, utrata członkostwa, zmiana regulaminu i rozwiązanie. |
-| [Regulamin korzystania z przestrzeni](regulaminy/regulamin-przestrzeni.md) | Zasady współżycia, dostęp, bezpieczeństwo, porządek, narzędzia i maszyny, rezerwacje, wydarzenia, alkohol, monitoring, reagowanie na naruszenia. |
-| [Protokół zebrania założycielskiego](regulaminy/protokol-zebrania-zalozycielskiego.md) | Utworzenie Stowarzyszenia, uchwały nr 1-4 (powołanie Stowarzyszenia, regulamin, adres siedziby, Przedstawiciel do spraw urzędowych) wraz z wynikami głosowań. |
-
-Spis dokumentów wraz z krótkim opisem znajduje się także w
-[regulaminy/README.md](regulaminy/README.md).
+| Katalog              | Zawiera                                                                                      |
+|----------------------|----------------------------------------------------------------------------------------------|
+| uchwalone/           | [Teksty uchwalone](uchwalone/README.md)                                                      |
+| uchwalone/jednolite/ | [Teksty jednolite z datą ujednolicenia](uchwalone/jednolite/README.md)                       |
+| uchwalone/{data}/    | Protokoły z zebrań, np. [Protokół zebrania założycielskiego](uchwalone/2026-08-23/README.md) |
+| propozycje/          | [Propozycje](propozycje/README.md)                                                           |
 
 ## Hierarchia dokumentów
 
@@ -68,7 +66,7 @@ komputerze:
 
 ```bash
 bin/make-pdf                                        # wszystkie dokumenty
-bin/make-pdf regulaminy/regulamin-stowarzyszenia.md # jeden dokument
+bin/make-pdf uchwalone/jednolite/regulamin-stowarzyszenia.md # jeden dokument
 bin/make-pdf --html --png                           # dodatkowo podgląd HTML i PNG
 bin/make-pdf --rebuild                              # wymuszenie przebudowy obrazu
 ```
