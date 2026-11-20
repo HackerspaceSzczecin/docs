@@ -25,4 +25,6 @@ pdf:
 
 # Files skipped when the renderer is invoked without arguments.
 exclude:
-  - regulaminy/README.md
+  - propozycje/
+  - uchwalone/README.md
+  - uchwalone/jednolite/README.md

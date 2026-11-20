@@ -3,7 +3,7 @@
 # Render the association's Markdown documents to PDF inside Docker.
 #
 #   bin/make-pdf                          all documents
-#   bin/make-pdf regulaminy/regulamin-stowarzyszenia.md
+#   bin/make-pdf uchwalone/jednolite/regulamin-stowarzyszenia.md
 #   bin/make-pdf --html --png             also write HTML preview and page PNGs
 #   bin/make-pdf --rebuild                force a rebuild of the image
 #
